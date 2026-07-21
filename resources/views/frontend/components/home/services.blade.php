@@ -1,0 +1,168 @@
+    <!-- Service Section Start -->
+    <section class="service-section section-padding section-bg fix">
+        <div class="container">
+            <div class="section-title-area">
+                <div class="section-title">
+                    <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle"><img
+                            src="assets/img/sub-title-1.svg" alt="img" />Our
+                        Services</span>
+                    <h2 class="split-title">
+                        Get Our Comprehensive <br />
+                        Service Offerings
+                    </h2>
+                </div>
+                <div class="client-area wow fadeInUp" data-wow-delay=".2s">
+                    <div class="image">
+                        <img src="assets/img/home-1/service-client-01.png" alt="img" />
+                    </div>
+                    <p>We have 40k+ customers word-wide</p>
+                </div>
+            </div>
+            <div class="service-box-area des-portfolio-wrap">
+                <div class="service-box-items des-portfolio-panel">
+                    <div class="content">
+                        <div class="icon-area">
+                            <div class="icon">
+                                <img src="assets/img/home-1/icon/service-icon-01.svg" alt="img" />
+                            </div>
+                            <h3 class="number">01</h3>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ route('service-details') }}">IT Solutions</a>
+                        </h3>
+                        <p>
+                            Through a combination of data-driven insights and innovative
+                            approaches, we work closely with you to develop customized.
+                        </p>
+                        <div class="list-items">
+                            <span><img src="assets/img/home-1/icon/service-check-icon.svg"
+                                    alt="img" />Strategy</span>
+                            <span><img src="assets/img/home-1/icon/service-check-icon.svg" alt="img" />Human
+                                Resource</span>
+                        </div>
+                        <a href="{{ route('service-details') }}" class="theme-btn">
+                            <span class="btn-arrow-left">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                            </span>
+                            <span class="btn-title">Read More</span>
+                            <span class="btn-arrow-right">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="thumb">
+                        <img src="assets/img/home-1/service-01.jpg" alt="img" />
+                        <img src="assets/img/home-1/service-01.jpg" alt="img" />
+                    </div>
+                </div>
+                <div class="service-box-items des-portfolio-panel">
+                    <div class="content">
+                        <div class="icon-area">
+                            <div class="icon">
+                                <img src="assets/img/home-1/icon/service-icon-02.svg" alt="img" />
+                            </div>
+                            <h3 class="number">02</h3>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ route('service-details') }}">Graphic Designing</a>
+                        </h3>
+                        <p>
+                            Through a combination of data-driven insights and innovative
+                            approaches, we work closely with you to develop customized.
+                        </p>
+                        <div class="list-items">
+                            <span><img src="assets/img/home-1/icon/service-check-icon.svg"
+                                    alt="img" />Strategy</span>
+                            <span><img src="assets/img/home-1/icon/service-check-icon.svg" alt="img" />Human
+                                Resource</span>
+                        </div>
+                        <a href="{{ route('service-details') }}" class="theme-btn">
+                            <span class="btn-arrow-left">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                            </span>
+                            <span class="btn-title">Read More</span>
+                            <span class="btn-arrow-right">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="thumb">
+                        <img src="assets/img/home-1/service-02.jpg" alt="img" />
+                        <img src="assets/img/home-1/service-02.jpg" alt="img" />
+                    </div>
+                </div>
+                <div class="service-box-items des-portfolio-panel">
+                    <div class="content">
+                        <div class="icon-area">
+                            <div class="icon">
+                                <img src="assets/img/home-1/icon/service-icon-03.svg" alt="img" />
+                            </div>
+                            <h3 class="number">03</h3>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ route('service-details') }}">Marketing Strategy & Campaigns</a>
+                        </h3>
+                        <p>
+                            Through a combination of data-driven insights and innovative
+                            approaches, we work closely with you to develop customized.
+                        </p>
+                        <div class="list-items">
+                            <span><img src="assets/img/home-1/icon/service-check-icon.svg"
+                                    alt="img" />Strategy</span>
+                            <span><img src="assets/img/home-1/icon/service-check-icon.svg" alt="img" />Human
+                                Resource</span>
+                        </div>
+                        <a href="{{ route('service-details') }}" class="theme-btn">
+                            <span class="btn-arrow-left">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                            </span>
+                            <span class="btn-title">Read More</span>
+                            <span class="btn-arrow-right">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="thumb">
+                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                    </div>
+                </div>
+                <div class="service-box-items des-portfolio-panel">
+                    <div class="content">
+                        <div class="icon-area">
+                            <div class="icon">
+                                <img src="assets/img/home-1/icon/service-icon-03.svg" alt="img" />
+                            </div>
+                            <h3 class="number">04</h3>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ route('service-details') }}">SEO Optimization</a>
+                        </h3>
+                        <p>
+                            Through a combination of data-driven insights and innovative
+                            approaches, we work closely with you to develop customized.
+                        </p>
+                        <div class="list-items">
+                            <span><img src="assets/img/home-1/icon/service-check-icon.svg"
+                                    alt="img" />Strategy</span>
+                            <span><img src="assets/img/home-1/icon/service-check-icon.svg" alt="img" />Human
+                                Resource</span>
+                        </div>
+                        <a href="{{ route('service-details') }}" class="theme-btn">
+                            <span class="btn-arrow-left">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                            </span>
+                            <span class="btn-title">Read More</span>
+                            <span class="btn-arrow-right">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="thumb">
+                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
