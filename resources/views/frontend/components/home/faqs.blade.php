@@ -15,8 +15,7 @@
                     </h2>
                   </div>
                   <p class="faq-text wow fadeInUp" data-wow-delay=".2s">
-                    Collaboratively disintermediate move to impacter
-                    compellingly web architectures without installed
+                    Everything you need to know about our services, process, and how we can help your business grow. 
                   </p>
                   <div
                     class="faq-bottom-area wow fadeInUp"
@@ -30,10 +29,10 @@
                     </div>
                     <div class="content">
                       <p>
-                        <a href="tel:+12(029)838994">+12 (029) 838 994</a>
+                        <a href="tel:917657999786">+91-7657999786</a>
                       </p>
-                      <a href="mailto:hellobixoo@gmail.com" class="mail-text"
-                        >hellobixoo@gmail.com</a
+                      <a href="mailto:info@thebossmedia.co.in" class="mail-text"
+                        >info@thebossmedia.co.in</a
                       >
                     </div>
                   </div>
@@ -48,15 +47,13 @@
                       data-wow-delay=".2s"
                     >
                       <div class="acc-btn active">
-                        How do I know if I need a consultant?
+                        What services does The Boss Media provide?
                         <div class="icon fa-regular fa-plus"></div>
                       </div>
                       <div class="acc-content current">
                         <div class="content">
                           <div class="text">
-                            Through a combination of data-driven insights and
-                            innovative approaches, we work closely with you to
-                            develop customized.
+                            We offer complete digital solutions including IT Solutions, Graphic Designing, SEO Optimization, Digital Marketing, and Marketing Strategy & Campaigns.
                           </div>
                         </div>
                       </div>
@@ -67,15 +64,13 @@
                       data-wow-delay=".4s"
                     >
                       <div class="acc-btn active">
-                        What types of consulting services do you offer?
+                        Do you provide customized solutions for businesses?
                         <div class="icon fa-regular fa-plus"></div>
                       </div>
                       <div class="acc-content">
                         <div class="content">
                           <div class="text">
-                            Through a combination of data-driven insights and
-                            innovative approaches, we work closely with you to
-                            develop customized.
+                            Yes. We understand that every business is different, so we create customized strategies and solutions based on your goals, industry, audience, and requirements.
                           </div>
                         </div>
                       </div>
@@ -86,15 +81,13 @@
                       data-wow-delay=".6s"
                     >
                       <div class="acc-btn active">
-                        What makes your consulting firm different from others?
+                        Can you manage our complete digital presence?
                         <div class="icon fa-regular fa-plus"></div>
                       </div>
                       <div class="acc-content">
                         <div class="content">
                           <div class="text">
-                            Through a combination of data-driven insights and
-                            innovative approaches, we work closely with you to
-                            develop customized.
+                            Absolutely. From branding and website solutions to SEO, social media, and digital marketing, we can manage your digital requirements under one roof.
                           </div>
                         </div>
                       </div>
@@ -105,15 +98,13 @@
                       data-wow-delay=".8s"
                     >
                       <div class="acc-btn active">
-                        What makes your consulting firm different from others?
+                        How can SEO help my business?
                         <div class="icon fa-regular fa-plus"></div>
                       </div>
                       <div class="acc-content">
                         <div class="content">
                           <div class="text">
-                            Through a combination of data-driven insights and
-                            innovative approaches, we work closely with you to
-                            develop customized.
+                            SEO helps your business become more visible when potential customers search online. We optimize your website to improve visibility, attract relevant traffic, and create better opportunities for growth.
                           </div>
                         </div>
                       </div>
@@ -124,15 +115,13 @@
                       data-wow-delay=".9s"
                     >
                       <div class="acc-btn active">
-                        Who can benefit from your consulting services?
+                       Can you create marketing campaigns for specific goals?
                         <div class="icon fa-regular fa-plus"></div>
                       </div>
                       <div class="acc-content">
                         <div class="content">
                           <div class="text">
-                            Through a combination of data-driven insights and
-                            innovative approaches, we work closely with you to
-                            develop customized.
+                            Yes. Whether your goal is brand awareness, lead generation, product promotion, website traffic, or customer engagement, we can develop campaigns around your specific objective.
                           </div>
                         </div>
                       </div>

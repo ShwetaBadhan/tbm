@@ -7,8 +7,7 @@
                             src="assets/img/sub-title-1.svg" alt="img" />Our
                         Services</span>
                     <h2 class="split-title">
-                        Get Our Comprehensive <br />
-                        Service Offerings
+                        Your Digital Needs. Our Expertise. <br> One Powerful Solution.
                     </h2>
                 </div>
                 <div class="client-area wow fadeInUp" data-wow-delay=".2s">
@@ -30,9 +29,9 @@
                         <h3 class="title">
                             <a href="{{ route('service-details') }}">IT Solutions</a>
                         </h3>
-                        <p>
-                            Through a combination of data-driven insights and innovative
-                            approaches, we work closely with you to develop customized.
+                        <p align="justify">
+                           We provide reliable and customized IT solutions that help businesses simplify processes, improve efficiency, and build a stronger digital foundation. 
+
                         </p>
                         <div class="list-items">
                             <span><img src="assets/img/home-1/icon/service-check-icon.svg"
@@ -66,9 +65,9 @@
                         <h3 class="title">
                             <a href="{{ route('service-details') }}">Graphic Designing</a>
                         </h3>
-                        <p>
-                            Through a combination of data-driven insights and innovative
-                            approaches, we work closely with you to develop customized.
+                        <p align="justify">
+                            We create creative, professional, and engaging designs that give your brand a strong visual identity and help you communicate your message effectively.
+
                         </p>
                         <div class="list-items">
                             <span><img src="assets/img/home-1/icon/service-check-icon.svg"
@@ -102,9 +101,8 @@
                         <h3 class="title">
                             <a href="{{ route('service-details') }}">Marketing Strategy & Campaigns</a>
                         </h3>
-                        <p>
-                            Through a combination of data-driven insights and innovative
-                            approaches, we work closely with you to develop customized.
+                        <p align="justify">
+                            We create data-driven marketing strategies and impactful campaigns that help businesses reach the right audience, build brand awareness and generate leads. 
                         </p>
                         <div class="list-items">
                             <span><img src="assets/img/home-1/icon/service-check-icon.svg"
@@ -138,9 +136,8 @@
                         <h3 class="title">
                             <a href="{{ route('service-details') }}">SEO Optimization</a>
                         </h3>
-                        <p>
-                            Through a combination of data-driven insights and innovative
-                            approaches, we work closely with you to develop customized.
+                        <p align="justify">
+                            We optimize your digital presence to improve search visibility, and help your business reach customers actively searching for your products or services.
                         </p>
                         <div class="list-items">
                             <span><img src="assets/img/home-1/icon/service-check-icon.svg"

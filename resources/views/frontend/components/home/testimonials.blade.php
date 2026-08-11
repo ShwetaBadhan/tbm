@@ -31,8 +31,8 @@
                             />
                           </div>
                           <div class="client-content">
-                            <h2 class="name">Johnson Smith</h2>
-                            <p>Marketing Director</p>
+                            <h2 class="name">User</h2>
+                            {{-- <p>Marketing Director</p> --}}
                           </div>
                         </div>
                         <div class="testimonial-content">
@@ -46,10 +46,8 @@
                               <i class="fa-solid fa-star-sharp"></i>
                             </div>
                           </div>
-                          <p class="testi-text">
-                            "From logo design to marketing campaigns, everything
-                            was flawless. Our sales and online engagement have
-                            doubled since the rebranding."
+                          <p class="testi-text" align="justify">
+                            "The Boss Media understood our requirements perfectly and delivered a professional digital solution. Their communication, creativity, and attention to detail were impressive."
                           </p>
                           <h3>“GREAT DESIGN SERVICES”</h3>
                         </div>
@@ -65,8 +63,8 @@
                             />
                           </div>
                           <div class="client-content">
-                            <h2 class="name">David Johnson</h2>
-                            <p>Marketing Director</p>
+                            <h2 class="name">User</h2>
+                            {{-- <p>Marketing Director</p> --}}
                           </div>
                         </div>
                         <div class="testimonial-content">
@@ -80,10 +78,8 @@
                               <i class="fa-solid fa-star-sharp"></i>
                             </div>
                           </div>
-                          <p class="testi-text">
-                            "From logo design to marketing campaigns, everything
-                            was flawless. Our sales and online engagement have
-                            doubled since the rebranding."
+                          <p class="testi-text" align="justify">
+                            "What we liked most about The Boss Media was having technology, design, SEO, and marketing expertise in one place. The team was responsive, professional, and easy to work with."
                           </p>
                           <h3>“GREAT DESIGN SERVICES”</h3>
                         </div>
@@ -99,8 +95,8 @@
                             />
                           </div>
                           <div class="client-content">
-                            <h2 class="name">William Johnson</h2>
-                            <p>Marketing Director</p>
+                            <h2 class="name">User</h2>
+                            {{-- <p>Marketing Director</p> --}}
                           </div>
                         </div>
                         <div class="testimonial-content">
@@ -114,10 +110,8 @@
                               <i class="fa-solid fa-star-sharp"></i>
                             </div>
                           </div>
-                          <p class="testi-text">
-                            "From logo design to marketing campaigns, everything
-                            was flawless. Our sales and online engagement have
-                            doubled since the rebranding."
+                          <p class="testi-text" align="justify">
+                            "From design to digital marketing, the team provided excellent support throughout the project. They helped us create a stronger and more professional online presence."
                           </p>
                           <h3>“GREAT DESIGN SERVICES”</h3>
                         </div>

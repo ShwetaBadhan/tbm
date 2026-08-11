@@ -34,13 +34,11 @@
                       <div class="col-lg-12">
                         <div class="hero-content">
                           <h1>
-                            Solutions
-                            <span> to Transform Your </span> <b> Business </b>
+                           Solutions 
+                            <span> That Make Your</span> <b> Business </b> Stand Out 
                           </h1>
                           <p class="hero-text">
-                            Through a combination of data-driven insights and
-                            innovative approaches, we work closely with you to
-                            develop customized.
+                            Powering Businesses with Technology, Creativity & Strategy.
                           </p>
                         </div>
                         <div class="hero-button">
@@ -71,14 +69,12 @@
                     <div class="row">
                       <div class="col-lg-12">
                         <div class="hero-content">
-                          <h1>
-                            Solutions
-                            <span> to Transform Your </span> <b> Business </b>
+                           <h1>
+                           Solutions 
+                            <span> That Make Your</span> <b> Business </b> Stand Out 
                           </h1>
-                          <p class="hero-text">
-                            Through a combination of data-driven insights and
-                            innovative approaches, we work closely with you to
-                            develop customized.
+                         <p class="hero-text">
+                            Powering Businesses with Technology, Creativity & Strategy.
                           </p>
                         </div>
                         <div class="hero-button">

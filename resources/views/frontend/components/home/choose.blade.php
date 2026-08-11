@@ -11,14 +11,12 @@
                       Chose Us</span
                     >
                     <h2 class="split-title">
-                      Navigate your Legally Challenges with Ease
+                      More Than a Service Provider. Your Digital Growth Partner. 
                     </h2>
                   </div>
                   <p class="choose-text wow fadeInUp" data-wow-delay=".2s">
-                    Financial journey with expertise, integrity and a
-                    personalized approach. we’re highly dedicated to financial
-                    journey. Business we operate in is like an intricate keep
-                    score with money.
+                    We combine creativity, technology, and strategy to deliver digital solutions that are aligned with your business goals.
+
                   </p>
                   <div class="list-items">
                     <ul class="wow fadeInUp" data-wow-delay=".4s">
@@ -27,14 +25,14 @@
                           src="assets/img/home-1/icon/check-icon.svg"
                           alt="img"
                         />
-                        Regulatory Investigations
+                        Customized Strategies
                       </li>
                       <li>
                         <img
                           src="assets/img/home-1/icon/check-icon.svg"
                           alt="img"
                         />
-                        Anit- Competitive Conduct
+                        Business-Focused Approach
                       </li>
                     </ul>
                     <ul class="wow fadeInUp" data-wow-delay=".5s">
@@ -43,14 +41,14 @@
                           src="assets/img/home-1/icon/check-icon.svg"
                           alt="img"
                         />
-                        Competitive Work Analysis
+                        Transparent Communication
                       </li>
                       <li>
                         <img
                           src="assets/img/home-1/icon/check-icon.svg"
                           alt="img"
                         />
-                        Innovation. Strategy. Success.
+                        Focus on Growth
                       </li>
                     </ul>
                   </div>

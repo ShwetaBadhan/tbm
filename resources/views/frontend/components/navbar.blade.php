@@ -41,15 +41,15 @@
                           <i class="fa-solid fa-chevron-down"></i>
                         </a>
                         <ul class="submenu">
-                          <li><a href="{{ route('service-details') }}">IT Solutions</a></li>
+                          <li><a href="{{ route('it-solutions') }}">IT Solutions</a></li>
                           <li>
-                            <a href="{{ route('service-details') }}">Graphic Designing</a>
+                            <a href="{{ route('graphic-designing') }}">Graphic Designing</a>
                           </li>
                           <li>
-                            <a href="{{ route('service-details') }}">SEO Optimization</a>
+                            <a href="{{ route('seo-optimization') }}">SEO Optimization</a>
                           </li>
                           <li>
-                            <a href="{{ route('service-details') }}">Digital Marketing</a>
+                            <a href="{{ route('digital-marketing') }}">Digital Marketing</a>
                           </li>
                         </ul>
                       </li>

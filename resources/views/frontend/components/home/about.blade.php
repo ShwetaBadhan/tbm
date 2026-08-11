@@ -8,11 +8,12 @@
                         <div class="col-xl-6 col-lg-6">
                             <div class="about-content-style-5">
                                 <div class="section-title mb-0">
-                                    <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle"><img src="assets/img/sub-title-1.svg" alt="img">About Our Company</span>
-                                    <h2 class="split-title">Comprehensive Financial Offerings</h2>
+                                    <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle">
+                                    <img src="assets/img/sub-title-1.svg" alt="img">About The Boss Media </span>
+                                    <h2 class="split-title">We Turn Ideas Into Digital Impact.</h2>
                                 </div>
-                                <p class="about-text wow fadeInUp">
-                                    We are dedicated to guiding you on your financial journey with expertise, integrity and a personalized approach. We are dedicated to guiding you on your financial.
+                                <p class="about-text wow fadeInUp" align="justify">
+                                    The Boss Media is a digital solutions company helping businesses build, grow, and strengthen their online presence. We bring together technology, creativity, SEO, and digital marketing to deliver solutions that make a real difference. 
                                 </p>
                                 <div class="about-feature wow fadeInUp" data-wow-delay=".2s">
                                     <h3 class="box-title">Business Strategy</h3>

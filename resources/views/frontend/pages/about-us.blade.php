@@ -89,7 +89,8 @@
                         <div class="col-xl-7 col-lg-6">
                             <div class="build-industries-content-style-2">
                                 <div class="section-title mb-0">
-                                    <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle"><img src="assets/img/sub-title-1.svg" alt="img">Build Your Industries</span>
+                                    <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle">
+                                    <img src="assets/img/sub-title-1.svg" alt="img">Industries We Serve</span>
                                     <h2 class="split-title">Transforming challenges into opportunities for growth</h2>
                                 </div>
                                 <div class="build-industries-box">
@@ -98,11 +99,11 @@
                                             <div class="build-industries-items">
                                                 <div class="build-list">
                                                     <img src="assets/img/home-2/bulid-02.jpg" alt="img">
-                                                    <h3><a href="{{ route('about-us') }}">Advanced Manufacturing <i class="fa-regular fa-arrow-up-right"></i></a></h3>
+                                                    <h3><a href="{{ route('about-us') }}">Business & Professional Services <i class="fa-regular fa-arrow-up-right"></i></a></h3>
                                                 </div>
                                                 <div class="build-list style-margin">
                                                    <img src="assets/img/home-2/bulid-05.jpg" alt="img">
-                                                    <h3><a href="{{ route('about-us') }}">Financial Services <i class="fa-regular fa-arrow-up-right"></i></a></h3>
+                                                    <h3><a href="{{ route('about-us') }}">Retail, E-Commerce & Consumer <i class="fa-regular fa-arrow-up-right"></i></a></h3>
                                                 </div>
                                             </div>
                                         </li>
@@ -110,11 +111,11 @@
                                             <div class="build-industries-items">
                                                 <div class="build-list">
                                                      <img src="assets/img/home-2/bulid-03.jpg" alt="img">
-                                                     <h3><a href="{{ route('about-us') }}">Transportation & Logistics <i class="fa-regular fa-arrow-up-right"></i></a></h3>
+                                                     <h3><a href="{{ route('about-us') }}">Healthcare, Education & Wellness <i class="fa-regular fa-arrow-up-right"></i></a></h3>
                                                 </div>
                                                 <div class="build-list style-margin">
                                                     <img src="assets/img/home-2/bulid-06.jpg" alt="img">
-                                                    <h3><a href="{{ route('about-us') }}">Healthcare <i class="fa-regular fa-arrow-up-right"></i></a></h3>
+                                                    <h3><a href="{{ route('about-us') }}">Technology & Digital <i class="fa-regular fa-arrow-up-right"></i></a></h3>
                                                 </div>
                                             </div>
                                         </li>
@@ -122,11 +123,11 @@
                                             <div class="build-industries-items">
                                                   <div class="build-list">
                                                    <img src="assets/img/home-2/bulid-04.jpg" alt="img">
-                                                    <h3><a href="{{ route('about-us') }}">Industry & Manufacturing <i class="fa-regular fa-arrow-up-right"></i></a></h3>
+                                                    <h3><a href="{{ route('about-us') }}">Industrial, Manufacturing & Public Sectors <i class="fa-regular fa-arrow-up-right"></i></a></h3>
                                                 </div>
                                                 <div class="build-list style-margin">
                                                    <img src="assets/img/home-2/bulid-07.jpg" alt="img">
-                                                    <h3><a href="{{ route('about-us') }}">Non-Profit <i class="fa-regular fa-arrow-up-right"></i></a></h3>
+                                                    <h3><a href="{{ route('about-us') }}">Travel, Hospitality & Lifestyle <i class="fa-regular fa-arrow-up-right"></i></a></h3>
                                                 </div>
                                             </div>
                                         </li>

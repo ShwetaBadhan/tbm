@@ -18,9 +18,21 @@ Route::get('/services', function () {
     return view('frontend.pages.services');
 })->name('services');
 
-Route::get('/service-details', function () {
-    return view('frontend.pages.service-details');
-})->name('service-details');
+Route::get('/it-solutions', function () {
+    return view('frontend.pages.services.it-solutions');
+})->name('it-solutions');
+
+Route::get('/graphic-designing', function () {
+    return view('frontend.pages.services.graphic-designing');
+})->name('graphic-designing');
+
+Route::get('/digital-marketing', function () {
+    return view('frontend.pages.services.digital-marketing');
+})->name('digital-marketing');
+
+Route::get('/seo-optimization', function () {
+    return view('frontend.pages.services.seo-optimization');
+})->name('seo-optimization');
 
 
 Route::get('/our-work', function () {

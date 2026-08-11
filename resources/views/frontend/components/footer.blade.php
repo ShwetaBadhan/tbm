@@ -36,8 +36,9 @@
                   </div>
                   <div class="content">
                     <h2 class="info-title">Our Location:</h2>
-                    <p>
-                      Level 5/55 Gawler Pl, Adelaide SA 5000, Australia
+                    <p align="justify">
+                      Office No. 3, Second Floor, D-185, Phase 8B,<br>
+Industrial Area, Sector 74, Sahibzada Ajit  <br>Singh Nagar  (Mohali), Punjab-160055
                     </p>
                   </div>
                 </div>
@@ -92,8 +93,7 @@
                     </div>
                     <div class="footer-content">
                       <p>
-                        Through a combination of data-driven insights and
-                        innovative approaches, work closely with you to develop
+                        From powerful digital solutions to creative strategies, we’re here to turn your vision into impact and help your business grow. 
                       </p>
                       <div class="award-icon d-flex align-items-center">
                         <div class="icon">
@@ -165,22 +165,22 @@
                     </div>
                     <ul class="list-area">
                       <li>
-                        <a href="{{ route('service-details') }}">
+                        <a href="{{ route('it-solutions') }}">
                           <i class="fa-regular fa-chevrons-right"></i> IT Solutions
                         </a>
                       </li>
                       <li>
-                        <a href="{{ route('service-details') }}">
+                        <a href="{{ route('graphic-designing') }}">
                           <i class="fa-regular fa-chevrons-right"></i> Graphic Designing
                         </a>
                       </li>
                       <li>
-                        <a href="{{ route('service-details') }}">
+                        <a href="{{ route('seo-optimization') }}">
                           <i class="fa-regular fa-chevrons-right"></i> SEO Optimization
                         </a>
                       </li>
                       <li>
-                        <a href="{{ route('service-details') }}">
+                        <a href="{{ route('digital-marketing') }}">
                           <i class="fa-regular fa-chevrons-right"></i> Digital Marketing
                         </a>
                       </li>
