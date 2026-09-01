@@ -27,10 +27,11 @@
                             <h3 class="number">01</h3>
                         </div>
                         <h3 class="title">
-                            <a href="{{ route('service-details') }}">IT Solutions</a>
+                            <a href="{{ route('it-solutions') }}">IT Solutions</a>
                         </h3>
                         <p align="justify">
-                           We provide reliable and customized IT solutions that help businesses simplify processes, improve efficiency, and build a stronger digital foundation. 
+                            We provide reliable and customized IT solutions that help businesses simplify processes,
+                            improve efficiency, and build a stronger digital foundation.
 
                         </p>
                         <div class="list-items">
@@ -39,7 +40,7 @@
                             <span><img src="assets/img/home-1/icon/service-check-icon.svg" alt="img" />Human
                                 Resource</span>
                         </div>
-                        <a href="{{ route('service-details') }}" class="theme-btn">
+                        <a href="javascript:void(0)" class="theme-btn">
                             <span class="btn-arrow-left">
                                 <i class="fa-solid fa-arrow-up-right"></i>
                             </span>
@@ -63,10 +64,11 @@
                             <h3 class="number">02</h3>
                         </div>
                         <h3 class="title">
-                            <a href="{{ route('service-details') }}">Graphic Designing</a>
+                            <a href="{{ route('graphic-designing') }}">Graphic Designing</a>
                         </h3>
                         <p align="justify">
-                            We create creative, professional, and engaging designs that give your brand a strong visual identity and help you communicate your message effectively.
+                            We create creative, professional, and engaging designs that give your brand a strong visual
+                            identity and help you communicate your message effectively.
 
                         </p>
                         <div class="list-items">
@@ -75,7 +77,7 @@
                             <span><img src="assets/img/home-1/icon/service-check-icon.svg" alt="img" />Human
                                 Resource</span>
                         </div>
-                        <a href="{{ route('service-details') }}" class="theme-btn">
+                        <a href="javascript:void(0)" class="theme-btn">
                             <span class="btn-arrow-left">
                                 <i class="fa-solid fa-arrow-up-right"></i>
                             </span>
@@ -99,10 +101,11 @@
                             <h3 class="number">03</h3>
                         </div>
                         <h3 class="title">
-                            <a href="{{ route('service-details') }}">Marketing Strategy & Campaigns</a>
+                            <a href="{{ route('digital-marketing') }}">Marketing Strategy & Campaigns</a>
                         </h3>
                         <p align="justify">
-                            We create data-driven marketing strategies and impactful campaigns that help businesses reach the right audience, build brand awareness and generate leads. 
+                            We create data-driven marketing strategies and impactful campaigns that help businesses
+                            reach the right audience, build brand awareness and generate leads.
                         </p>
                         <div class="list-items">
                             <span><img src="assets/img/home-1/icon/service-check-icon.svg"
@@ -110,7 +113,7 @@
                             <span><img src="assets/img/home-1/icon/service-check-icon.svg" alt="img" />Human
                                 Resource</span>
                         </div>
-                        <a href="{{ route('service-details') }}" class="theme-btn">
+                        <a href="javascript:void(0)" class="theme-btn">
                             <span class="btn-arrow-left">
                                 <i class="fa-solid fa-arrow-up-right"></i>
                             </span>
@@ -134,10 +137,11 @@
                             <h3 class="number">04</h3>
                         </div>
                         <h3 class="title">
-                            <a href="{{ route('service-details') }}">SEO Optimization</a>
+                            <a href="{{ route('seo-optimization') }}">SEO Optimization</a>
                         </h3>
                         <p align="justify">
-                            We optimize your digital presence to improve search visibility, and help your business reach customers actively searching for your products or services.
+                            We optimize your digital presence to improve search visibility, and help your business reach
+                            customers actively searching for your products or services.
                         </p>
                         <div class="list-items">
                             <span><img src="assets/img/home-1/icon/service-check-icon.svg"
@@ -145,7 +149,7 @@
                             <span><img src="assets/img/home-1/icon/service-check-icon.svg" alt="img" />Human
                                 Resource</span>
                         </div>
-                        <a href="{{ route('service-details') }}" class="theme-btn">
+                        <a href="javascript:void(0)" class="theme-btn">
                             <span class="btn-arrow-left">
                                 <i class="fa-solid fa-arrow-up-right"></i>
                             </span>
