@@ -164,6 +164,42 @@
                         <img src="assets/img/home-1/service-03.jpg" alt="img" />
                     </div>
                 </div>
+                <div class="service-box-items des-portfolio-panel">
+                    <div class="content">
+                        <div class="icon-area">
+                            <div class="icon">
+                                <img src="assets/img/home-1/icon/service-icon-03.svg" alt="img" />
+                            </div>
+                            <h3 class="number">05</h3>
+                        </div>
+                        <h3 class="title">
+                            <a href="{{ route('digital-campaign-management') }}">Digital Campaign Management</a>
+                        </h3>
+                        <p align="justify">
+                            We optimize your digital presence to improve search visibility, and help your business reach
+                            customers actively searching for your products or services.
+                        </p>
+                        <div class="list-items">
+                            <span><img src="assets/img/home-1/icon/service-check-icon.svg"
+                                    alt="img" />Strategy</span>
+                            <span><img src="assets/img/home-1/icon/service-check-icon.svg" alt="img" />Human
+                                Resource</span>
+                        </div>
+                        <a href="{{ route('digital-campaign-management') }}" class="theme-btn">
+                            <span class="btn-arrow-left">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                            </span>
+                            <span class="btn-title">Read More</span>
+                            <span class="btn-arrow-right">
+                                <i class="fa-solid fa-arrow-up-right"></i>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="thumb">
+                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                    </div>
+                </div>
             </div>
         </div>
     </section>

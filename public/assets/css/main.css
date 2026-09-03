@@ -4584,7 +4584,7 @@ span {
 
 .counter-wrap-3 {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   justify-content: space-between;
   gap: 120px;
 }
@@ -5940,7 +5940,7 @@ span {
   position: absolute;
   top: 100%;
   inset-inline-start: 0;
-  min-width: 250px;
+  min-width: 350px;
   background: var(--white);
   padding: 20px 0;
   border-radius: 10px;
@@ -11851,12 +11851,12 @@ span {
   padding: 23px 28px;
   border-radius: 12px;
   background-color: var(--theme);
-  max-width: 222px;
+  max-width: 283px;
 }
 .pricing-box-items .pricing-head h2 {
   color: var(--white);
   margin-bottom: 8px;
-  font-size: 50px;
+  font-size: 30px;
 }
 .pricing-box-items .pricing-head sup {
   font-size: 14px;

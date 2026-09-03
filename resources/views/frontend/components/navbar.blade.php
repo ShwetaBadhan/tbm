@@ -51,6 +51,9 @@
                           <li>
                             <a href="{{ route('digital-marketing') }}">Digital Marketing</a>
                           </li>
+                          <li>
+                            <a href="{{ route('digital-campaign-management') }}">Digital Campaign Management</a>
+                          </li>
                         </ul>
                       </li>
                         <li class="active menu-thumb">

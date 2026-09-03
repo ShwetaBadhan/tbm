@@ -30,6 +30,10 @@ Route::get('/digital-marketing', function () {
     return view('frontend.pages.services.digital-marketing');
 })->name('digital-marketing');
 
+Route::get('/digital-campaign-management', function () {
+    return view('frontend.pages.services.digital-campaign-management');
+})->name('digital-campaign-management');
+
 Route::get('/seo-optimization', function () {
     return view('frontend.pages.services.seo-optimization');
 })->name('seo-optimization');
