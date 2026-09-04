@@ -23,16 +23,19 @@
                 <div class="service-details-thumb fix">
                     <img data-speed=".8" src="assets/img/inner/service-details-01.jpg" alt="img">
                 </div>
-                <h2 class="title split-title">Turn Your Digital Presence Into Business Growth.</h2>
+                <h2 class="title split-title">One Digital Strategy. Every Channel Working Towards Growth.</h2>
                 <p class="mt-2 wow fadeInUp">
-                    At <b>The Boss Media</b>, we create strategic digital marketing solutions that help businesses reach the
-                    right audience, build brand awareness, generate leads, and grow online. We combine creativity, data, and
-                    strategy to create campaigns that are designed around your business goals.
-
+                    We help businesses build a connected digital presence that attracts the right audience, generates
+                    opportunities, strengthens brand visibility, and supports business growth. Our digital marketing
+                    strategies bring together search, social media, content, advertising, and online engagement to create a
+                    consistent customer journey across digital channels.
                 </p>
-
+                <p class="mt-3 wow fadeInUp" data-wow-delay=".2s">
+                    From building awareness and generating traffic to nurturing prospects and improving conversions, we plan
+                    and manage campaigns around your business objectives while continuously measuring what works.
+                </p>
                 <h3 class="title-2 wow fadeInUp" data-wow-delay=".3s">
-                    What We Offer
+                    What We Provide
 
                 </h3>
 
@@ -44,10 +47,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-01.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Social Media Marketing</h3>
+                                    <h3>01. Digital Marketing Strategy</h3>
                                     <div class="line"></div>
-                                    <p> Build a strong and engaging presence across platforms with strategic content and
-                                        campaigns.</p>
+                                    <p>Develop a complete digital roadmap based on your business goals, audience, industry,
+                                        competitors, and growth opportunities.</p>
                                 </div>
                             </div>
                         </div>
@@ -57,10 +60,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-02.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Social Media Management</h3>
+                                    <h3>02. Search Engine Marketing</h3>
                                     <div class="line"></div>
-                                    <p>Manage your social channels with consistent content, creative designs, audience
-                                        engagement, and performance tracking.</p>
+                                    <p>Google Ads and search campaigns designed to increase visibility, traffic, enquiries,
+                                        and conversions..</p>
                                 </div>
                             </div>
                         </div>
@@ -70,10 +73,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Content Marketing</h3>
+                                    <h3>03. Social Media Marketing</h3>
                                     <div class="line"></div>
-                                    <p>Create valuable and engaging content that informs your audience, builds trust, and
-                                        strengthens your brand.</p>
+                                    <p>Strategy, content, creative design, reels, community management, campaigns, and
+                                        social media growth.</p>
                                 </div>
                             </div>
                         </div>
@@ -83,10 +86,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Paid Advertising</h3>
+                                    <h3>04. SEO + AEO</h3>
                                     <div class="line"></div>
-                                    <p>Reach potential customers faster through targeted and optimized digital advertising
-                                        campaigns.</p>
+                                    <p>Improve organic search visibility, rankings, website traffic, and opportunities to
+                                        appear in answer-driven search experiences.</p>
                                 </div>
                             </div>
                         </div>
@@ -96,10 +99,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Lead Generation</h3>
+                                    <h3>05. Content Marketing</h3>
                                     <div class="line"></div>
-                                    <p> Develop targeted campaigns designed to attract potential customers and create
-                                        quality business opportunities.</p>
+                                    <p>Create blogs, articles, landing pages, website content, social content, and campaigns
+                                        that attract and engage your audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -109,10 +112,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Brand Awareness Campaigns</h3>
+                                    <h3>06. Lead Generation</h3>
                                     <div class="line"></div>
-                                    <p>Increase your brand visibility and help your business stay memorable in a competitive
-                                        digital market.</p>
+                                    <p>Build targeted campaigns and digital funnels to attract relevant prospects and create
+                                        qualified business opportunities.</p>
                                 </div>
                             </div>
                         </div>
@@ -122,10 +125,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Campaign Strategy & Management</h3>
+                                    <h3>07. Remarketing & Customer Engagement</h3>
                                     <div class="line"></div>
-                                    <p> Plan, execute, monitor, and optimize campaigns based on your specific marketing
-                                        objectives.</p>
+                                    <p>Reconnect with existing website visitors and audiences through targeted campaigns and
+                                        personalised communication.</p>
                                 </div>
                             </div>
                         </div>
@@ -135,58 +138,44 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Performance Analysis & Reporting</h3>
+                                    <h3>08. Influencer & Creator Marketing</h3>
                                     <div class="line"></div>
-                                    <p>Track campaign performance and use insights to continuously improve your digital
-                                        marketing strategy.</p>
+                                    <p>Plan and manage creator collaborations to increase brand awareness, reach new
+                                        audiences, and build trust.</p>
                                 </div>
                             </div>
                         </div>
-
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
+                            <div class="icon-feature-box-items-style">
+                                <div class="icon">
+                                    <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
+                                </div>
+                                <div class="content">
+                                    <h3>09. Conversion Optimisation</h3>
+                                    <div class="line"></div>
+                                    <p>Improve landing pages, CTAs, offers, creatives, and customer journeys to turn digital
+                                        traffic into meaningful actions.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
+                            <div class="icon-feature-box-items-style">
+                                <div class="icon">
+                                    <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
+                                </div>
+                                <div class="content">
+                                    <h3>10. Analytics & Reporting</h3>
+                                    <div class="line"></div>
+                                    <p>Monitor traffic, engagement, leads, conversions, customer acquisition, and campaign
+                                        performance to guide ongoing optimisation.</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="row g-4">
-                    <h3 class="title-2 wow fadeInUp" data-wow-delay=".3s">
-                        Why Choose Our Digital Marketing Services?
 
-                    </h3>
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                        <ul class="wow fadeInUp" data-wow-delay=".4s">
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Customized marketing strategies
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Creative and engaging content
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Audience-focused campaigns
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Data-driven decision making
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Continuous performance optimization
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Transparent reporting
-
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Growth-focused approach
-                            </li>
-                        </ul>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
-
 
 @endsection

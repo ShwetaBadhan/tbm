@@ -8,6 +8,7 @@
 @include('frontend.components.home.services')
 @include('frontend.components.home.work')
 @include('frontend.components.home.choose')
+@include('frontend.components.home.industries')
 @include('frontend.components.home.projects')
 @include('frontend.components.home.testimonials')
 @include('frontend.components.home.blogs')

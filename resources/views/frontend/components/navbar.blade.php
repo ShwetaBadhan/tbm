@@ -37,22 +37,55 @@
                      
                       <li>
                         <a href="{{ route('services') }}">
-                          Solutions
+                          Services
                           <i class="fa-solid fa-chevron-down"></i>
                         </a>
                         <ul class="submenu">
-                          <li><a href="{{ route('it-solutions') }}">IT Solutions</a></li>
+                          <li><a href="{{ route('performance-marketing') }}">Performance Marketing</a></li>
                           <li>
-                            <a href="{{ route('graphic-designing') }}">Graphic Designing</a>
+                            <a href="{{ route('social-media-marketing') }}">Social Media Marketing </a>
                           </li>
                           <li>
-                            <a href="{{ route('seo-optimization') }}">SEO Optimization</a>
+                            <a href="{{ route('seo-and-aeo') }}">SEO and AEO</a>
+                          </li>
+                          <li>
+                            <a href="{{ route('website-development') }}">Website Development</a>
                           </li>
                           <li>
                             <a href="{{ route('digital-marketing') }}">Digital Marketing</a>
                           </li>
                           <li>
-                            <a href="{{ route('digital-campaign-management') }}">Digital Campaign Management</a>
+                            <a href="{{ route('crm-development') }}">CRM Development</a>
+                          </li>
+                          <li>
+                            <a href="{{ route('whatsapp-api') }}">WhatsApp API</a>
+                          </li>
+                          <li>
+                            <a href="{{ route('political-pr') }}">Political PR</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <a href="javascript:void(0)">
+                          Industries
+                          <i class="fa-solid fa-chevron-down"></i>
+                        </a>
+                        <ul class="submenu">
+                          <li><a href="{{ route('manufacturing-and-fmcg') }}">Manufacturing & FMCG</a></li>
+                          <li>
+                            <a href="{{ route('food-and-beverage') }}">Food & Beverage</a>
+                          </li>
+                          <li>
+                            <a href="{{ route('education') }}">Education</a>
+                          </li>
+                          <li>
+                            <a href="{{ route('real-estate') }}">Real Estate</a>
+                          </li>
+                          <li>
+                            <a href="{{ route('tour-and-travel') }}">Tour & Travel</a>
+                          </li>
+                          <li>
+                            <a href="{{ route('healthcare') }}">Healthcare</a>
                           </li>
                         </ul>
                       </li>

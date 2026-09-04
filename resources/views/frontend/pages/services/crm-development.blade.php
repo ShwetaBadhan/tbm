@@ -1,6 +1,7 @@
 @extends('frontend.layouts.master')
-@section('title', 'Graphic Designing')
+@section('title', 'CRM Development')
 @section('content')
+
 
     <!-- Breadcrumb Section Start -->
     <section class="breadcrumb-wrapper bg-cover fix" style="background-image: url(assets/img/inner/breadcroumb-img.jpg);">
@@ -9,9 +10,9 @@
                 <ul class="breadcrumb-list wow fadeInUp">
                     <li> <i class="fa-solid fa-house"></i><a href="{{ route('home') }}">Home</a></li>
                     <li><i class="fa-solid fa-chevron-right"></i></li>
-                    <li>Graphic Designing</li>
+                    <li>CRM Development</li>
                 </ul>
-                <h1 class="breadcrumb-title split-title">Graphic Designing</h1>
+                <h1 class="breadcrumb-title split-title">CRM Development</h1>
             </div>
         </div>
     </section>
@@ -23,16 +24,18 @@
                 <div class="service-details-thumb fix">
                     <img data-speed=".8" src="assets/img/inner/service-details-01.jpg" alt="img">
                 </div>
-                <h2 class="title split-title">Creative Designs That Make Your Brand Stand Out.</h2>
+                <h2 class="title split-title">Turn Customer Data Into Better Relationships & Faster Growth</h2>
                 <p class="mt-2 wow fadeInUp">
-                    At <b>The Boss Media</b>, we turn ideas into compelling visual experiences that capture attention,
-                    communicate your message, and create a strong brand identity. Our graphic design solutions combine
-                    <b>creativity, strategy, and consistency</b> to make your brand memorable across every platform.
-
+                    We develop CRM solutions that help businesses organise customer information, manage leads, streamline
+                    sales processes, and build stronger customer relationships. From custom CRM platforms to integrations
+                    and automated workflows, we create systems that fit the way your business actually operates.
                 </p>
-
+                <p class="mt-3 wow fadeInUp" data-wow-delay=".2s">
+                    Our CRM solutions bring sales, marketing, customer communication, and reporting into one connected
+                    system—helping teams work more efficiently, reduce missed opportunities, and make better decisions.
+                </p>
                 <h3 class="title-2 wow fadeInUp" data-wow-delay=".3s">
-                    What We Offer
+                    What We Provide
 
                 </h3>
 
@@ -44,10 +47,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-01.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Logo & Brand Identity</h3>
+                                    <h3>01. Custom CRM Development</h3>
                                     <div class="line"></div>
-                                    <p> Create a distinctive visual identity that represents your brand, values, and
-                                        personality.</p>
+                                    <p>Build CRM platforms tailored to your business processes, teams, workflows, and
+                                        industry requirements.</p>
                                 </div>
                             </div>
                         </div>
@@ -57,10 +60,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-02.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Social Media Designs</h3>
+                                    <h3>02. Lead Management</h3>
                                     <div class="line"></div>
-                                    <p>Eye-catching and engaging creatives designed to strengthen your social media presence
-                                        and connect with your audience.</p>
+                                    <p>Capture, organise, assign, track, and manage leads throughout the complete sales
+                                        journey.</p>
                                 </div>
                             </div>
                         </div>
@@ -70,10 +73,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Marketing & Advertising Creatives</h3>
+                                    <h3>03. Sales Pipeline Management</h3>
                                     <div class="line"></div>
-                                    <p>Professional designs for digital campaigns, advertisements, promotions, and brand
-                                        awareness.</p>
+                                    <p>Create structured sales pipelines to monitor opportunities from first enquiry to
+                                        conversion.</p>
                                 </div>
                             </div>
                         </div>
@@ -83,10 +86,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Brochures & Flyers</h3>
+                                    <h3>04. Customer Database Management</h3>
                                     <div class="line"></div>
-                                    <p>Informative and visually appealing marketing materials that present your products and
-                                        services effectively.</p>
+                                    <p>Centralise customer profiles, interactions, enquiries, transactions, and important
+                                        business information.</p>
                                 </div>
                             </div>
                         </div>
@@ -96,9 +99,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Banners & Posters </h3>
+                                    <h3>05. Workflow & Process Automation</h3>
                                     <div class="line"></div>
-                                    <p>Creative designs that grab attention and communicate your message instantly.</p>
+                                    <p>Automate repetitive tasks, lead assignments, reminders, follow-ups, notifications,
+                                        and internal processes.</p>
                                 </div>
                             </div>
                         </div>
@@ -108,10 +112,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Business Cards & Corporate Materials</h3>
+                                    <h3>06. CRM Integrations</h3>
                                     <div class="line"></div>
-                                    <p>Professional stationery and business materials that maintain a consistent brand
-                                        image.</p>
+                                    <p>Connect your CRM with websites, forms, email, payment systems, marketing platforms,
+                                        APIs, and other business tools.</p>
                                 </div>
                             </div>
                         </div>
@@ -121,10 +125,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Presentation Designs</h3>
+                                    <h3>07. Marketing & Lead Nurturing</h3>
                                     <div class="line"></div>
-                                    <p>Clean, engaging, and professional presentations that make your ideas easier to
-                                        understand and remember.</p>
+                                    <p>Support targeted communication, follow-ups, campaigns, customer segmentation, and
+                                        lead nurturing.</p>
                                 </div>
                             </div>
                         </div>
@@ -134,49 +138,42 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>Packaging & Promotional Designs</h3>
+                                    <h3>08. Reporting & Business Analytics</h3>
                                     <div class="line"></div>
-                                    <p>Creative visual solutions that help your products stand out and create a stronger
-                                        customer impression.</p>
+                                    <p>Create dashboards and reports to track leads, sales performance, conversions,
+                                        revenue, and team productivity.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
+                            <div class="icon-feature-box-items-style">
+                                <div class="icon">
+                                    <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
+                                </div>
+                                <div class="content">
+                                    <h3>09. Customer Support & Service Management</h3>
+                                    <div class="line"></div>
+                                    <p>Manage customer requests, tickets, communication history, service activities, and
+                                        support workflows.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".7s">
+                            <div class="icon-feature-box-items-style">
+                                <div class="icon">
+                                    <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
+                                </div>
+                                <div class="content">
+                                    <h3>10. CRM Maintenance & Optimisation</h3>
+                                    <div class="line"></div>
+                                    <p>Provide ongoing updates, improvements, troubleshooting, security, performance
+                                        monitoring, and system support</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="row g-4">
-                    <h3 class="title-2 wow fadeInUp" data-wow-delay=".3s">
-                        Why Choose Our Design Services?
 
-                    </h3>
-                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
-                        <ul class="wow fadeInUp" data-wow-delay=".4s">
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Creative & original concepts
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Brand-focused designs
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Consistent visual identity
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Modern & professional aesthetics
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                Designs tailored to your audience
-                            </li>
-                            <li>
-                                <img src="assets/img/home-1/icon/check-icon.svg" alt="img">
-                                High-quality marketing materials
-                            </li>
-                        </ul>
-                    </div>
-                </div>
             </div>
         </div>
     </section>

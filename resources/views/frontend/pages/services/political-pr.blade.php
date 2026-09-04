@@ -1,5 +1,5 @@
 @extends('frontend.layouts.master')
-@section('title', 'Digital Campaign Management')
+@section('title', 'Political PR')
 @section('content')
 
   <!-- Hero Section Start -->

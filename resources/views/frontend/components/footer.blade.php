@@ -165,23 +165,23 @@ Industrial Area, Sector 74, Sahibzada Ajit  <br>Singh Nagar  (Mohali), Punjab-16
                     </div>
                     <ul class="list-area">
                       <li>
-                        <a href="{{ route('it-solutions') }}">
-                          <i class="fa-regular fa-chevrons-right"></i> IT Solutions
+                        <a href="{{ route('performance-marketing') }}">
+                          <i class="fa-regular fa-chevrons-right"></i> Performance Marketing
                         </a>
                       </li>
                       <li>
-                        <a href="{{ route('graphic-designing') }}">
-                          <i class="fa-regular fa-chevrons-right"></i> Graphic Designing
+                        <a href="{{ route('social-media-marketing') }}">
+                          <i class="fa-regular fa-chevrons-right"></i> Social Media Marketing
                         </a>
                       </li>
                       <li>
-                        <a href="{{ route('seo-optimization') }}">
-                          <i class="fa-regular fa-chevrons-right"></i> SEO Optimization
+                        <a href="{{ route('seo-and-aeo') }}">
+                          <i class="fa-regular fa-chevrons-right"></i> SEO and AEO
                         </a>
                       </li>
                       <li>
-                        <a href="{{ route('digital-marketing') }}">
-                          <i class="fa-regular fa-chevrons-right"></i> Digital Marketing
+                        <a href="{{ route('website-development') }}">
+                          <i class="fa-regular fa-chevrons-right"></i> Website Development
                         </a>
                       </li>
                      
