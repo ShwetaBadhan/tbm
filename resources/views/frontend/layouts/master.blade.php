@@ -89,5 +89,18 @@
     <script src="assets/js/wow.min.js"></script>
     <!--<< Main.js >>-->
     <script src="assets/js/main.js"></script>
+    <!-- TimetoHive WhatsApp Chat Widget -->
+<script>
+  window.TTH_WIDGET_CONFIG = {
+    tenantId: '6',
+    phone: '917657999786',
+    color: '#b6910c',
+    position: 'right',
+    welcomeMessage: 'Hi there! 👋 How can we help you today?',
+    services: ["Digital Marketing","Website & SEO","Social Media Marketing"]
+  };
+</script>
+<script src="https://chat.timetohiveone.com/widget/loader.js" async></script>
+<!-- End TimetoHive WhatsApp Chat Widget -->
   </body>
 </html>
