@@ -26,7 +26,7 @@
                   <div
                     class="hero-bg bg-cover"
                     style="
-                      background-image: url(&quot;assets/img/home-1/hero-bg.jpg&quot;);
+                      background-image: url(&quot;assets/img/banner/slider-1.jpg&quot;);
                     "
                   ></div>
                   <div class="container">
@@ -62,7 +62,7 @@
                   <div
                     class="hero-bg bg-cover"
                     style="
-                      background-image: url(&quot;assets/img/home-1/hero-bg2.jpg&quot;);
+                      background-image: url(&quot;assets/img/banner/slider-2.jpg&quot;);
                     "
                   ></div>
                   <div class="container">

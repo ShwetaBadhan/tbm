@@ -8,7 +8,7 @@
                     <span
                       class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle"
                       ><img src="assets/img/sub-title-1.svg" alt="img" />Why
-                      Chose Us</span
+                      Choose Us</span
                     >
                     <h2 class="split-title">
                       More Than a Service Provider. Your Digital Growth Partner. 
@@ -87,8 +87,8 @@
               </div>
               <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                 <div class="choose-us-right-thumb">
-                  <img src="assets/img/home-1/choose-us-01.jpg" alt="img" />
-                  <div class="choose-skill-content">
+                  <img src="assets/img/about/why-choose-us.jpg" alt="img" />
+                  {{-- <div class="choose-skill-content">
                     <div class="icon">
                       <img
                         src="assets/img/home-1/icon/choose-icon.png"
@@ -103,7 +103,7 @@
                       >Learn More
                       <i class="far fa-arrow-right"></i>
                     </a>
-                  </div>
+                  </div> --}}
                 </div>
               </div>
             </div>

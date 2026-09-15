@@ -14,7 +14,7 @@
     <!-- ======== Page title ============ -->
     <title>@yield('title','Home')</title>
     <!--<< Favcion >>-->
-    <link rel="shortcut icon" href="assets/img/favicon.svg" />
+    <link rel="shortcut icon" href="assets/img/fevicon.png" />
     <!--<< Bootstrap min.css >>-->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <!--<< All Min Css >>-->

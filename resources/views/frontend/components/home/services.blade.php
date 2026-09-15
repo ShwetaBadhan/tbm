@@ -44,8 +44,8 @@
                         </a>
                     </div>
                     <div class="thumb">
-                        <img src="assets/img/home-1/service-01.jpg" alt="img" />
-                        <img src="assets/img/home-1/service-01.jpg" alt="img" />
+                        <img src="assets/img/home-services/performance.jpg" alt="img" />
+                        <img src="assets/img/home-services/performance.jpg" alt="img" />
                     </div>
                 </div>
                 <div class="service-box-items des-portfolio-panel">
@@ -74,8 +74,8 @@
                         </a>
                     </div>
                     <div class="thumb">
-                        <img src="assets/img/home-1/service-02.jpg" alt="img" />
-                        <img src="assets/img/home-1/service-02.jpg" alt="img" />
+                        <img src="assets/img/home-services/social-media.jpg" alt="img" />
+                        <img src="assets/img/home-services/social-media.jpg" alt="img" />
                     </div>
                 </div>
                 <div class="service-box-items des-portfolio-panel">
@@ -104,8 +104,8 @@
                         </a>
                     </div>
                     <div class="thumb">
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                        <img src="assets/img/home-services/seo-aeo.jpg" alt="img" />
+                        <img src="assets/img/home-services/seo-aeo.jpg" alt="img" />
                     </div>
                 </div>
                 <div class="service-box-items des-portfolio-panel">
@@ -135,8 +135,8 @@
                         </a>
                     </div>
                     <div class="thumb">
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                        <img src="assets/img/home-services/development.jpg" alt="img" />
+                        <img src="assets/img/home-services/development.jpg" alt="img" />
                     </div>
                 </div>
                 <div class="service-box-items des-portfolio-panel">
@@ -166,8 +166,8 @@
                         </a>
                     </div>
                     <div class="thumb">
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                        <img src="assets/img/home-services/digital-marketing.jpg" alt="img" />
+                        <img src="assets/img/home-services/digital-marketing.jpg" alt="img" />
                     </div>
                 </div>
                 <div class="service-box-items des-portfolio-panel">
@@ -197,8 +197,8 @@
                         </a>
                     </div>
                     <div class="thumb">
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                        <img src="assets/img/home-services/crm.jpg" alt="img" />
+                        <img src="assets/img/home-services/crm.jpg" alt="img" />
                     </div>
                 </div>
                 <div class="service-box-items des-portfolio-panel">
@@ -228,8 +228,8 @@
                         </a>
                     </div>
                     <div class="thumb">
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                        <img src="assets/img/home-services/whatsapp-api.jpg" alt="img" />
+                        <img src="assets/img/home-services/whatsapp-api.jpg" alt="img" />
                     </div>
                 </div>
                 <div class="service-box-items des-portfolio-panel">
@@ -259,8 +259,8 @@
                         </a>
                     </div>
                     <div class="thumb">
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
-                        <img src="assets/img/home-1/service-03.jpg" alt="img" />
+                        <img src="assets/img/home-services/political-pr.jpg" alt="img" />
+                        <img src="assets/img/home-services/political-pr.jpg" alt="img" />
                     </div>
                 </div>
             </div>

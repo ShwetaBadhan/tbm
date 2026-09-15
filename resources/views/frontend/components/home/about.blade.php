@@ -53,7 +53,7 @@
                         </div>
                         <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-delay=".3s">
                             <div class="about-thumb-style-5">
-                                <img src="assets/img/home-5/about-01.jpg" alt="img">
+                                <img src="assets/img/about/about-us.png" alt="img">
                                 <div class="sm-thumb float-bob-y">
                                     <img src="assets/img/home-5/about-feam-1.png" alt="img">
                                 </div>
