@@ -21,7 +21,7 @@
         <div class="container">
             <div class="service-details-wrapper">
                 <div class="service-details-thumb fix">
-                    <img data-speed=".8" src="assets/img/inner/service-details-01.jpg" alt="img">
+                    <img data-speed=".8" src="assets/img/service-details/social-media.jpg" alt="img">
                 </div>
                 <h2 class="title split-title">Building Brands That Get Seen, Remembered & Chosen</h2>
                 <p class="mt-2 wow fadeInUp">

@@ -23,8 +23,8 @@
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                     <div class="service-box-items-style-2 mt-0">
                         <div class="service-thumb">
-                            <img class="hover-img" src="assets/img/home-2/service-01.jpg" alt="img">
-                            <img class="hover-img" src="assets/img/home-2/service-01.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/performance.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/performance.jpg" alt="img">
                             <div class="icon">
                                 <img src="assets/img/home-2/icon/service-icon-01.svg" alt="img">
                             </div>
@@ -41,8 +41,8 @@
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
                     <div class="service-box-items-style-2 mt-0">
                         <div class="service-thumb">
-                            <img class="hover-img" src="assets/img/home-2/service-02.jpg" alt="img">
-                            <img class="hover-img" src="assets/img/home-2/service-02.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/social-media.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/social-media.jpg" alt="img">
                             <div class="icon">
                                 <img src="assets/img/home-2/icon/service-icon-02.svg" alt="img">
                             </div>
@@ -58,8 +58,8 @@
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
                     <div class="service-box-items-style-2 mt-0">
                         <div class="service-thumb">
-                            <img class="hover-img" src="assets/img/home-2/service-03.jpg" alt="img">
-                            <img class="hover-img" src="assets/img/home-2/service-03.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/seo-aeo.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/seo-aeo.jpg" alt="img">
                             <div class="icon">
                                 <img src="assets/img/home-2/icon/service-icon-03.svg" alt="img">
                             </div>
@@ -76,8 +76,8 @@
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                     <div class="service-box-items-style-2 mt-0">
                         <div class="service-thumb">
-                            <img class="hover-img" src="assets/img/home-2/service-04.jpg" alt="img">
-                            <img class="hover-img" src="assets/img/home-2/service-04.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/development.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/development.jpg" alt="img">
                             <div class="icon">
                                 <img src="assets/img/home-2/icon/service-icon-04.svg" alt="img">
                             </div>
@@ -94,8 +94,8 @@
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                     <div class="service-box-items-style-2 mt-0">
                         <div class="service-thumb">
-                            <img class="hover-img" src="assets/img/home-2/service-04.jpg" alt="img">
-                            <img class="hover-img" src="assets/img/home-2/service-04.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/digital-marketing.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/digital-marketing.jpg" alt="img">
                             <div class="icon">
                                 <img src="assets/img/home-2/icon/service-icon-04.svg" alt="img">
                             </div>
@@ -112,8 +112,8 @@
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                     <div class="service-box-items-style-2 mt-0">
                         <div class="service-thumb">
-                            <img class="hover-img" src="assets/img/home-2/service-04.jpg" alt="img">
-                            <img class="hover-img" src="assets/img/home-2/service-04.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/crm.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/crm.jpg" alt="img">
                             <div class="icon">
                                 <img src="assets/img/home-2/icon/service-icon-04.svg" alt="img">
                             </div>
@@ -130,8 +130,8 @@
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                     <div class="service-box-items-style-2 mt-0">
                         <div class="service-thumb">
-                            <img class="hover-img" src="assets/img/home-2/service-04.jpg" alt="img">
-                            <img class="hover-img" src="assets/img/home-2/service-04.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/whatsapp-api.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/whatsapp-api.jpg" alt="img">
                             <div class="icon">
                                 <img src="assets/img/home-2/icon/service-icon-04.svg" alt="img">
                             </div>
@@ -148,8 +148,8 @@
                 <div class="col-xxl-3 col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
                     <div class="service-box-items-style-2 mt-0">
                         <div class="service-thumb">
-                            <img class="hover-img" src="assets/img/home-2/service-04.jpg" alt="img">
-                            <img class="hover-img" src="assets/img/home-2/service-04.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/political-pr.jpg" alt="img">
+                            <img class="hover-img" src="assets/img/home-services/political-pr.jpg" alt="img">
                             <div class="icon">
                                 <img src="assets/img/home-2/icon/service-icon-04.svg" alt="img">
                             </div>

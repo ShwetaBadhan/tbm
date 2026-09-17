@@ -20,7 +20,7 @@
         <div class="container">
             <div class="service-details-wrapper">
                 <div class="service-details-thumb fix">
-                    <img data-speed=".8" src="assets/img/inner/service-details-01.jpg" alt="img">
+                    <img data-speed=".8" src="assets/img/service-details/performance-mkt.jpg" alt="img">
                 </div>
                 <h2 class="title split-title">Campaigns Built for Business Outcomes</h2>
                 <p class="mt-2 wow fadeInUp">

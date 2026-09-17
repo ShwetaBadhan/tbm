@@ -2,7 +2,7 @@
         <footer
           class="footer-section fix bg-cover"
           style="
-            background-image: url(&quot;assets/img/home-1/footer-bg-img.jpg&quot;);
+            background-image: url(&quot;assets/img/bg/footer.jpg&quot;);
           "
         >
           <div class="footer-info-area">

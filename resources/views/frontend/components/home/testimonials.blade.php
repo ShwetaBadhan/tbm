@@ -7,7 +7,7 @@
             <div class="row g-4 align-items-center">
               <div class="col-xl-5 d-none d-xl-block wow fadeInUp">
                 <div class="testi-big-client-image-style-1">
-                  <img src="assets/img/home-1/testi-big-client.png" alt="img" />
+                  <img src="assets/img/home/testimonials.png" alt="img" />
                 </div>
               </div>
               <div class="col-xl-7">

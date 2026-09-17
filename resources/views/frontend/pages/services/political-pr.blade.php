@@ -19,7 +19,7 @@
                         <span>FOLLOW:</span>
                     </div>
                     <div class="hero-height">
-                        <div class="hero-bg bg-cover" style="background-image: url('assets/img/home-9/hero-bg.jpg');"></div>
+                        <div class="hero-bg bg-cover" style="background-image: url('assets/img/service-details/political-pr.jpg');"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
