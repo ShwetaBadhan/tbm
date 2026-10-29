@@ -1,5 +1,5 @@
 @extends('frontend.layouts.master')
-@section('title','Home | The Boss Media')
+@section('title','The Boss Media | Digital Marketing, SEO & Web Development Company ')
 @section('content')
 
 @include('frontend.components.home.hero')
