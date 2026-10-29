@@ -14,7 +14,7 @@
         content="The Boss Media is a digital solutions company in Mohali offering performance marketing, SEO & AEO, website development, CRM and WhatsApp API. Get a free quote." />
 
     <!-- ======== Page title ============ -->
-    <title>@yield('title', 'The Boss Media | Digital Marketing, SEO & Web Development Company')</title>
+    <title>@yield('title', 'The Boss Media | Performance Marketing & Web Development Company ')</title>
 
     <!--<< Favcion >>-->
     <link rel="shortcut icon" href="{{ asset('assets/img/fevicon.png') }}" />
