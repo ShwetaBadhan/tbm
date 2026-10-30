@@ -83,13 +83,12 @@
     </script>
     @endverbatim
 
-    <!--<< Schema.org JSON-LD (Block 2 - Optional: You can delete this duplicate if not needed) >>-->
-    @verbatim
+      @verbatim
       <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "@id": "https://thebossmedia.co.in/#organization",
+  "@type": "Review",
+  "@id": "https://thebossmedia.co.in/#review",
   "name": "The Boss Media",
   "url": "https://thebossmedia.co.in/",
   "review": [
