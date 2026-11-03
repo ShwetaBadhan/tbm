@@ -83,39 +83,7 @@
     </script>
     @endverbatim
 
-    @verbatim
-        <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Review",
-  "@id": "https://thebossmedia.co.in/#review",
-  "name": "The Boss Media",
-  "url": "https://thebossmedia.co.in/",
-  "review": [
-    {
-      "@type": "Review",
-      "author": { "@type": "Person", "name": "Tarundeep Singh" },
-      
-      "reviewBody": "The Boss Media understood our requirements perfectly and delivered a professional digital solution. Their communication, creativity, and attention to detail were impressive."
-    },
-    {
-      "@type": "Review",
-      "author": { "@type": "Person", "name": "Amar Srinivas" },
-      
-      "reviewBody": "What we liked most about The Boss Media was having technology, design, SEO, and marketing expertise in one place. The team was responsive, professional, and easy to work with."
-    },
-    {
-      "@type": "Review",
-      "author": { "@type": "Person", "name": "Danial" },
-      
-      "reviewBody": "From design to digital marketing, the team provided excellent support throughout the project. They helped us create a stronger and more professional online presence."
-    }
-  ]
-}
-</script>
-
-    @endverbatim
-
+   
 </head>
 
 <body class="body-bg-1">
