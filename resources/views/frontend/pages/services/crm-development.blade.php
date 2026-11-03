@@ -1,5 +1,8 @@
 @extends('frontend.layouts.master')
-@section('title', 'CRM Development')
+@section('title', 'CRM Development Company in Mohali | The Boss Media')
+@section('meta_description', 'Turn customer data into growth. Custom CRM development with lead management, sales
+    pipelines, workflow automation and integrations from The Boss Media.')
+@section('canonical', 'https://thebossmedia.co.in/crm-development')
 @section('content')
 
 
@@ -24,19 +27,22 @@
                 <div class="service-details-thumb fix">
                     <img data-speed=".8" src="assets/img/service-details/CRM-development.jpg" alt="img">
                 </div>
-                <h2 class="title split-title">Turn Customer Data Into Better Relationships & Faster Growth</h2>
+                <h2 class="title split-title">Strengthen Every Relationship. Drive More Sales.</h2>
                 <p class="mt-2 wow fadeInUp">
-                    We develop CRM solutions that help businesses organise customer information, manage leads, streamline
-                    sales processes, and build stronger customer relationships. From custom CRM platforms to integrations
-                    and automated workflows, we create systems that fit the way your business actually operates.
+                    Streamline your business operations with custom CRM development solutions designed to manage customer
+                    relationships, organise sales activities, and improve business efficiency. We specialise in building
+                    customised CRM systems with features such as lead management systems, sales pipelines, customer
+                    databases, workflow automation, and third-party integrations. Our CRM software development solutions
+                    help businesses centralise customer information, track interactions, and manage leads more effectively.
                 </p>
                 <p class="mt-3 wow fadeInUp" data-wow-delay=".2s">
-                    Our CRM solutions bring sales, marketing, customer communication, and reporting into one connected
-                    system—helping teams work more efficiently, reduce missed opportunities, and make better decisions.
+                    From lead nurturing and follow-ups to CRM database management and sales tracking, our solutions are
+                    tailored to your business processes and requirements. Our CRM developers focus on creating
+                    user-friendly, scalable systems that simplify daily operations, improve team productivity, and support
+                    better customer engagement.
                 </p>
                 <h3 class="title-2 wow fadeInUp" data-wow-delay=".3s">
-                    What We Provide
-
+                    Our CRM Development Services
                 </h3>
 
                 <div class="service-feature-wrapper">
@@ -49,8 +55,7 @@
                                 <div class="content">
                                     <h3>01. Custom CRM Development</h3>
                                     <div class="line"></div>
-                                    <p>Build CRM platforms tailored to your business processes, teams, workflows, and
-                                        industry requirements.</p>
+                                    <p>Build tailored CRM solutions based on your business processes and requirements.</p>
                                 </div>
                             </div>
                         </div>
@@ -60,10 +65,9 @@
                                     <img src="assets/img/home-3/icon/feature-icon-02.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>02. Lead Management</h3>
+                                    <h3>02. Lead Management System</h3>
                                     <div class="line"></div>
-                                    <p>Capture, organise, assign, track, and manage leads throughout the complete sales
-                                        journey.</p>
+                                    <p>Capture, organise, assign, and track leads throughout the sales process.</p>
                                 </div>
                             </div>
                         </div>
@@ -75,8 +79,7 @@
                                 <div class="content">
                                     <h3>03. Sales Pipeline Management</h3>
                                     <div class="line"></div>
-                                    <p>Create structured sales pipelines to monitor opportunities from first enquiry to
-                                        conversion.</p>
+                                    <p>Monitor sales stages, track opportunities, and manage deal progress.</p>
                                 </div>
                             </div>
                         </div>
@@ -86,10 +89,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>04. Customer Database Management</h3>
+                                    <h3>04. Lead Nurturing & Follow-ups</h3>
                                     <div class="line"></div>
-                                    <p>Centralise customer profiles, interactions, enquiries, transactions, and important
-                                        business information.</p>
+                                    <p>Automate follow-ups, reminders, and communication to convert prospects into
+                                        customers.</p>
                                 </div>
                             </div>
                         </div>
@@ -99,10 +102,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>05. Workflow & Process Automation</h3>
+                                    <h3>05. CRM Workflow Automation</h3>
                                     <div class="line"></div>
-                                    <p>Automate repetitive tasks, lead assignments, reminders, follow-ups, notifications,
-                                        and internal processes.</p>
+                                    <p>Automate repetitive tasks, lead assignments, notifications, and daily business
+                                        activities.</p>
                                 </div>
                             </div>
                         </div>
@@ -112,10 +115,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>06. CRM Integrations</h3>
+                                    <h3>06. CRM Database Management</h3>
                                     <div class="line"></div>
-                                    <p>Connect your CRM with websites, forms, email, payment systems, marketing platforms,
-                                        APIs, and other business tools.</p>
+                                    <p>Organise customer records, contact details, interactions, and business information.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -125,10 +128,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>07. Marketing & Lead Nurturing</h3>
+                                    <h3>07. Third-Party Integrations</h3>
                                     <div class="line"></div>
-                                    <p>Support targeted communication, follow-ups, campaigns, customer segmentation, and
-                                        lead nurturing.</p>
+                                    <p>Connect CRM software with websites, email, WhatsApp, payment gateways, and other
+                                        business tools.</p>
                                 </div>
                             </div>
                         </div>
@@ -138,10 +141,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>08. Reporting & Business Analytics</h3>
+                                    <h3>08. Reporting & Analytics</h3>
                                     <div class="line"></div>
-                                    <p>Create dashboards and reports to track leads, sales performance, conversions,
-                                        revenue, and team productivity.</p>
+                                    <p>Track sales performance, lead conversions, team productivity, and business growth.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -151,10 +154,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>09. Customer Support & Service Management</h3>
+                                    <h3>09. CRM Dashboard Development</h3>
                                     <div class="line"></div>
-                                    <p>Manage customer requests, tickets, communication history, service activities, and
-                                        support workflows.</p>
+                                    <p>Create customised dashboards for real-time access to leads, sales, and customer
+                                        activities.</p>
                                 </div>
                             </div>
                         </div>
@@ -164,10 +167,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>10. CRM Maintenance & Optimisation</h3>
+                                    <h3>10. CRM Maintenance & Support</h3>
                                     <div class="line"></div>
-                                    <p>Provide ongoing updates, improvements, troubleshooting, security, performance
-                                        monitoring, and system support</p>
+                                    <p>Ensure smooth CRM performance through updates, troubleshooting, security, and ongoing
+                                        support.</p>
                                 </div>
                             </div>
                         </div>

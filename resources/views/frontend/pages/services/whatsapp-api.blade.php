@@ -1,8 +1,11 @@
 @extends('frontend.layouts.master')
-@section('title','Whatsapp API')
+@section('title', 'WhatsApp Business API Provider in Mohali | The Boss Media')
+@section('meta_description', 'Turn WhatsApp into a business channel. Automate replies, follow-ups, notifications and
+    campaigns, and connect it to your CRM with The Boss Media. Get a quote.')
+@section('canonical', 'https://thebossmedia.co.in/whatsapp-api')
 @section('content')
 
- <!-- Breadcrumb Section Start -->
+    <!-- Breadcrumb Section Start -->
     <section class="breadcrumb-wrapper bg-cover fix" style="background-image: url(assets/img/inner/breadcroumb-img.jpg);">
         <div class="container">
             <div class="page-heading">
@@ -23,16 +26,23 @@
                 <div class="service-details-thumb fix">
                     <img data-speed=".8" src="assets/img/service-details/whatsapp-API.jpg" alt="img">
                 </div>
-                <h2 class="title split-title">Turn WhatsApp Into a Powerful Business Communication Channel</h2>
+                <h2 class="title split-title">Automate Conversations. Simplify Communication.</h2>
                 <p class="mt-2 wow fadeInUp">
-                    We help businesses use WhatsApp as a structured channel for customer communication, lead engagement, notifications, and support. With WhatsApp API solutions, businesses can connect customer conversations with their websites, CRM, marketing campaigns, and internal workflows.
+                    Connect with your customers more efficiently through WhatsApp Business API solutions designed to
+                    streamline communication and improve customer engagement. We provide WhatsApp API integration, business
+                    account setup, automated messaging, chatbot workflows, bulk notifications, and campaign management to
+                    help businesses communicate with customers at scale. Our WhatsApp automation solutions make it easier to
+                    manage enquiries, share updates, send notifications, and handle customer interactions.
                 </p>
                 <p class="mt-3 wow fadeInUp" data-wow-delay=".2s">
-                    From automated messages and lead follow-ups to order updates and customer support, we help streamline communication while keeping interactions timely, organised, and relevant.
+                    From automated replies and lead follow-ups to personalised campaigns and CRM integration, our solutions
+                    help simplify communication and improve response times. With strategic WhatsApp marketing services,
+                    businesses can automate customer journeys, nurture leads, share important updates, and build stronger
+                    customer relationships. Transform WhatsApp into an efficient business communication and marketing
+                    channel with scalable API solutions.
                 </p>
                 <h3 class="title-2 wow fadeInUp" data-wow-delay=".3s">
-                    What We Provide
-
+                    Our WhatsApp Business API Services
                 </h3>
 
                 <div class="service-feature-wrapper">
@@ -43,9 +53,9 @@
                                     <img src="assets/img/home-3/icon/feature-icon-01.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>01. WhatsApp Business API Integration</h3>
+                                    <h3>01. WhatsApp Business API Setup</h3>
                                     <div class="line"></div>
-                                    <p>Connect your business with WhatsApp API to manage customer communication at scale.</p>
+                                    <p>Set up and configure your official WhatsApp Business API account.</p>
                                 </div>
                             </div>
                         </div>
@@ -55,9 +65,9 @@
                                     <img src="assets/img/home-3/icon/feature-icon-02.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>02. Lead Capture & Enquiries</h3>
+                                    <h3>02. WhatsApp API Integration</h3>
                                     <div class="line"></div>
-                                    <p>Capture leads from websites, campaigns, forms, and other digital channels directly into your communication workflow.</p>
+                                    <p>Connect WhatsApp with your website, CRM, and other business tools.</p>
                                 </div>
                             </div>
                         </div>
@@ -67,9 +77,9 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>03. Automated Responses</h3>
+                                    <h3>03. WhatsApp Automation</h3>
                                     <div class="line"></div>
-                                    <p>Set up automated responses for common enquiries, FAQs, service information, and customer requests.</p>
+                                    <p>Automate replies, customer enquiries, notifications, and follow-ups.</p>
                                 </div>
                             </div>
                         </div>
@@ -79,9 +89,9 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>04. Lead Follow-Ups</h3>
+                                    <h3>04. Chatbot Development</h3>
                                     <div class="line"></div>
-                                    <p>Automate reminders and follow-ups to keep prospects engaged throughout the customer journey.</p>
+                                    <p>Create automated chatbot workflows to handle customer queries and interactions.</p>
                                 </div>
                             </div>
                         </div>
@@ -91,9 +101,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>05. CRM Integration</h3>
+                                    <h3>05. Bulk Messaging Campaigns</h3>
                                     <div class="line"></div>
-                                    <p>Connect WhatsApp conversations with your CRM to manage leads, customer details, communication history, and sales activities.</p>
+                                    <p>Send promotional messages, announcements, and business updates to opted-in audiences.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -103,9 +114,9 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>06. Notifications & Updates</h3>
+                                    <h3>06. Automated Lead Management</h3>
                                     <div class="line"></div>
-                                    <p>Send appointment reminders, order updates, booking confirmations, payment notifications, and other business alerts.</p>
+                                    <p>Capture, organise, assign, and follow up with leads through WhatsApp.</p>
                                 </div>
                             </div>
                         </div>
@@ -117,7 +128,8 @@
                                 <div class="content">
                                     <h3>07. WhatsApp Marketing Campaigns</h3>
                                     <div class="line"></div>
-                                    <p>Create targeted customer communication campaigns for offers, launches, promotions, events, and announcements.</p>
+                                    <p>Run targeted WhatsApp marketing campaigns to promote products, services, and offers.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -127,9 +139,9 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>08. Chatbot & Conversational Flows</h3>
+                                    <h3>08. WhatsApp Notifications</h3>
                                     <div class="line"></div>
-                                    <p>Build structured conversation journeys to guide customers, answer questions, collect information, and route enquiries.</p>
+                                    <p>Send order updates, booking confirmations, reminders, and transactional alerts.</p>
                                 </div>
                             </div>
                         </div>
@@ -139,9 +151,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>09. Customer Support</h3>
+                                    <h3>09. CRM & Customer Data Integration</h3>
                                     <div class="line"></div>
-                                    <p>Create organised WhatsApp-based support workflows for faster responses and better customer communication.</p>
+                                    <p>Connect WhatsApp with CRM systems for centralised customer communication and lead
+                                        tracking.</p>
                                 </div>
                             </div>
                         </div>
@@ -151,9 +164,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>10. Analytics & Performance Tracking</h3>
+                                    <h3>10. Performance Tracking & Reporting</h3>
                                     <div class="line"></div>
-                                    <p>Monitor message delivery, engagement, responses, leads, and campaign performance to improve communication strategies.</p>
+                                    <p>Monitor message delivery, campaign engagement, responses, and customer interactions.
+                                    </p>
                                 </div>
                             </div>
                         </div>

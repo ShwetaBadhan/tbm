@@ -10,8 +10,7 @@
 
     <meta name="google-site-verification" content="ctbqVAkmk5LqYTtl9Bu4KZcKDHphgu2gWf8aecQzVm4" />
 
-    <meta name="description"
-        content="The Boss Media is a digital solutions company in Mohali offering performance marketing, SEO & AEO, website development, CRM and WhatsApp API. Get a free quote." />
+    <meta name="description" content="@yield('meta_description', 'The Boss Media is a digital solutions company in Mohali offering performance marketing, SEO & AEO, website development, CRM and WhatsApp API. Get a free quote.')" />
 
     <!-- ======== Page title ============ -->
     <title>@yield('title', 'The Boss Media | Performance Marketing & Web Development Company ')</title>
@@ -29,7 +28,8 @@
     <link rel="stylesheet" href="{{ asset('assets/css/nice-select.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}" />
 
-    <link rel="canonical" href="https://thebossmedia.co.in/">
+    <link rel="canonical" href="@yield('canonical', url()->current())">
+
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
     <!--<< Open Graph Meta Tags >>-->
@@ -45,76 +45,96 @@
     <meta property="og:image:height" content="630">
     <meta property="og:image:alt" content="The Boss Media - Digital Marketing & SEO Company">
 
-    <!--<< Schema.org JSON-LD (Block 1) >>-->
-    @verbatim
-        <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "@id": "https://thebossmedia.co.in/#organization",
-      "name": "The Boss Media",
-      "url": "https://thebossmedia.co.in/",
-      "logo": "https://thebossmedia.co.in/assets/img/logo/boss-logo.webp",
-      "description": "The Boss Media is a digital solutions company helping businesses build, grow and strengthen their online presence through technology, creativity, SEO and digital marketing.",
-      "email": "info@thebossmedia.co.in",
-      "telephone": "+91-7657999786",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "B-1, D-185, Phase 8B, Industrial Area, Sector 74",
-        "addressLocality": "Sahibzada Ajit Singh Nagar (Mohali)",
-        "addressRegion": "Punjab",
-        "postalCode": "160055",
-        "addressCountry": "IN"
-      },
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-7657999786",
-        "email": "info@thebossmedia.co.in",
-        "contactType": "customer service",
-        "areaServed": "IN",
-        "availableLanguage": ["English", "Hindi"]
-      },
-      "sameAs": [
-        "https://www.facebook.com/thebossmedia.in",
-        "https://www.instagram.com/thebossmedia.official",
-        "https://www.linkedin.com/company/thebossmedia"
-      ]
-    }
-    </script>
-    @endverbatim
-
-      @verbatim
-      <script type="application/ld+json">
+  @verbatim
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Review",
-  "@id": "https://thebossmedia.co.in/#review",
+  "@type": "Organization",
+  "@id": "https://thebossmedia.co.in/#organization",
   "name": "The Boss Media",
   "url": "https://thebossmedia.co.in/",
+  "logo": "https://thebossmedia.co.in/assets/img/logo/boss-logo.webp",
+  "description": "The Boss Media is a digital solutions company helping businesses build, grow and strengthen their online presence through technology, creativity, SEO and digital marketing.",
+  "email": "info@thebossmedia.co.in",
+  "telephone": "+91-7657999786",
+
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "B-1, D-185, Phase 8B, Industrial Area, Sector 74",
+    "addressLocality": "Sahibzada Ajit Singh Nagar (Mohali)",
+    "addressRegion": "Punjab",
+    "postalCode": "160055",
+    "addressCountry": "IN"
+  },
+
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-7657999786",
+    "email": "info@thebossmedia.co.in",
+    "contactType": "customer service",
+    "areaServed": "IN",
+    "availableLanguage": ["English", "Hindi"]
+  },
+
+  "sameAs": [
+    "https://www.facebook.com/thebossmedia.in",
+    "https://www.instagram.com/thebossmedia.official",
+    "https://www.linkedin.com/company/thebossmedia"
+  ],
+
   "review": [
     {
       "@type": "Review",
-      "author": { "@type": "Person", "name": "Tarundeep Singh" },
-      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" },
+      "author": {
+        "@type": "Person",
+        "name": "Tarundeep Singh"
+      },
+      "itemReviewed": {
+        "@id": "https://thebossmedia.co.in/#organization"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
       "reviewBody": "The Boss Media understood our requirements perfectly and delivered a professional digital solution. Their communication, creativity, and attention to detail were impressive."
     },
     {
       "@type": "Review",
-      "author": { "@type": "Person", "name": "Amar Srinivas" },
-      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" },
+      "author": {
+        "@type": "Person",
+        "name": "Amar Srinivas"
+      },
+      "itemReviewed": {
+        "@id": "https://thebossmedia.co.in/#organization"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
       "reviewBody": "What we liked most about The Boss Media was having technology, design, SEO, and marketing expertise in one place. The team was responsive, professional, and easy to work with."
     },
     {
       "@type": "Review",
-      "author": { "@type": "Person", "name": "Danial" },
-      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" },
+      "author": {
+        "@type": "Person",
+        "name": "Danial"
+      },
+      "itemReviewed": {
+        "@id": "https://thebossmedia.co.in/#organization"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
       "reviewBody": "From design to digital marketing, the team provided excellent support throughout the project. They helped us create a stronger and more professional online presence."
     }
   ]
 }
 </script>
-
-    @endverbatim
+@endverbatim
 
 </head>
 

@@ -1,5 +1,8 @@
 @extends('frontend.layouts.master')
-@section('title', 'Website Development')
+@section('title', 'Website Development Company in Mohali | The Boss Media')
+@section('meta_description', 'Fast, responsive, conversion-focused websites, from corporate sites and e-commerce stores
+    to custom web apps. Build your online presence with The Boss Media.')
+@section('canonical', 'https://thebossmedia.co.in/website-development ')
 @section('content')
 
     <!-- Breadcrumb Section Start -->
@@ -23,19 +26,22 @@
                 <div class="service-details-thumb fix">
                     <img data-speed=".8" src="assets/img/service-details/website-development.jpg" alt="img">
                 </div>
-                <h2 class="title split-title">Websites Built to Represent, Engage & Grow Your Business</h2>
+                <h2 class="title split-title">Building Powerful Websites That Turn Visitors into Customers.</h2>
                 <p class="mt-2 wow fadeInUp">
-                    We build modern, responsive, and conversion-focused websites that give your business a strong digital
-                    foundation. From corporate websites and premium brand experiences to e-commerce platforms and custom web
-                    solutions, we create websites designed around your audience, goals, and customer journey.
+                    Our web development services focus on building fast, secure, responsive, and user-friendly websites that
+                    reflect your brand identity and support your business objectives. As a website development company in
+                    Mohali, we specialise in corporate websites, e-commerce platforms, landing pages, and custom web
+                    applications, combining modern technologies with creative website development and design.
                 </p>
                 <p class="mt-3 wow fadeInUp" data-wow-delay=".2s">
-                    Our process combines strategy, design, development, performance, and optimization to deliver websites
-                    that are visually strong, easy to use, fast, scalable, and built to support long-term business growth.
+                    From planning and designing to development, testing, and deployment, we focus on creating seamless
+                    digital experiences across all devices. Our responsive website design ensures smooth navigation, faster
+                    loading, and consistent functionality on desktops, tablets, and mobiles. Whether you need a new website
+                    or an upgrade to your existing platform, our website design development solutions are to improve user
+                    experience, strengthen brand credibility, and turn website visitors into potential customers.
                 </p>
                 <h3 class="title-2 wow fadeInUp" data-wow-delay=".3s">
-                    What We Provide
-
+                    Our Website Development Services
                 </h3>
 
                 <div class="service-feature-wrapper">
@@ -48,8 +54,7 @@
                                 <div class="content">
                                     <h3>01. Business & Corporate Websites</h3>
                                     <div class="line"></div>
-                                    <p>Professional websites that clearly communicate your brand, services, expertise, and
-                                        value proposition.</p>
+                                    <p>Professional websites that showcase your brand, services, and expertise.</p>
                                 </div>
                             </div>
                         </div>
@@ -61,7 +66,7 @@
                                 <div class="content">
                                     <h3>02. Luxury & Premium Websites</h3>
                                     <div class="line"></div>
-                                    <p>High-end, immersive website experiences designed for premium brands.</p>
+                                    <p>Modern, high-end website designs for premium brand experiences.</p>
                                 </div>
                             </div>
                         </div>
@@ -73,8 +78,8 @@
                                 <div class="content">
                                     <h3>03. E-commerce Development</h3>
                                     <div class="line"></div>
-                                    <p>Online stores with product catalogues, shopping carts, payment integration, order
-                                        management, and buying journeys.</p>
+                                    <p>Feature-rich online stores with product catalogues, payments, and order management.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -86,8 +91,7 @@
                                 <div class="content">
                                     <h3>04. Custom Web Development</h3>
                                     <div class="line"></div>
-                                    <p>Web applications built around your specific business processes, features, and
-                                        requirements.</p>
+                                    <p>Tailored web applications built around your business requirements.</p>
                                 </div>
                             </div>
                         </div>
@@ -99,8 +103,7 @@
                                 <div class="content">
                                     <h3>05. UI/UX & Responsive Design</h3>
                                     <div class="line"></div>
-                                    <p>Clean, intuitive designs that provide a seamless experience across desktops, tablets,
-                                        and mobile devices.</p>
+                                    <p>User-friendly interfaces and responsive website designs for all devices.</p>
                                 </div>
                             </div>
                         </div>
@@ -112,8 +115,7 @@
                                 <div class="content">
                                     <h3>06. Landing Pages</h3>
                                     <div class="line"></div>
-                                    <p>High-converting landing pages designed for campaigns, lead generation, product
-                                        launches, and specific objectives.</p>
+                                    <p>Conversion-focused landing pages for campaigns, leads, and product launches.</p>
                                 </div>
                             </div>
                         </div>
@@ -125,8 +127,7 @@
                                 <div class="content">
                                     <h3>07. CMS & Website Management</h3>
                                     <div class="line"></div>
-                                    <p>Easy-to-manage websites with content management systems that allow to update and
-                                        maintain the content.</p>
+                                    <p>Easy-to-manage websites with flexible content management systems.</p>
                                 </div>
                             </div>
                         </div>
@@ -138,8 +139,7 @@
                                 <div class="content">
                                     <h3>08. API & Third-Party Integrations</h3>
                                     <div class="line"></div>
-                                    <p>Connect websites with payment gateways, CRMs, booking systems, APIs, marketing
-                                        platforms, and other business tools.</p>
+                                    <p>Connect websites with CRMs, payment gateways, booking systems, and other tools.</p>
                                 </div>
                             </div>
                         </div>
@@ -151,8 +151,7 @@
                                 <div class="content">
                                     <h3>09. Website Speed & SEO Readiness</h3>
                                     <div class="line"></div>
-                                    <p>Optimise website structure, performance, mobile experience, and technical foundations
-                                        for better usability and search visibility.</p>
+                                    <p>Optimise website speed, mobile performance, and technical SEO foundations.</p>
                                 </div>
                             </div>
                         </div>
@@ -164,8 +163,8 @@
                                 <div class="content">
                                     <h3>10. Maintenance & Support</h3>
                                     <div class="line"></div>
-                                    <p>Ongoing updates, security, troubleshooting, backups, performance monitoring, and
-                                        technical support.</p>
+                                    <p>Ensure website security and performance through regular updates and technical
+                                        support.</p>
                                 </div>
                             </div>
                         </div>

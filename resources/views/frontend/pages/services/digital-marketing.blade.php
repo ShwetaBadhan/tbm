@@ -1,5 +1,9 @@
 @extends('frontend.layouts.master')
-@section('title', 'Digital Marketing')
+@section('title', 'Digital Marketing Company in Mohali | The Boss Media')
+@section('meta_description', 'One strategy, every channel. SEO, Google Ads, social media, content and lead generation,
+    all working together to grow your business. Talk to The Boss Media.')
+@section('canonical', 'https://thebossmedia.co.in/digital-marketing')
+
 @section('content')
 
     <!-- Breadcrumb Section Start -->
@@ -23,16 +27,19 @@
                 <div class="service-details-thumb fix">
                     <img data-speed=".8" src="assets/img/service-details/digital-marketing.jpg" alt="img">
                 </div>
-                <h2 class="title split-title">One Digital Strategy. Every Channel Working Towards Growth.</h2>
+                <h2 class="title split-title">Connect Every Channel. Create More Opportunities.</h2>
                 <p class="mt-2 wow fadeInUp">
-                    We help businesses build a connected digital presence that attracts the right audience, generates
-                    opportunities, strengthens brand visibility, and supports business growth. Our digital marketing
-                    strategies bring together search, social media, content, advertising, and online engagement to create a
-                    consistent customer journey across digital channels.
+                    Build a stronger digital presence with integrated digital marketing services designed to support your
+                    business goals. As a digital marketing company in Mohali, we offer a comprehensive range of solutions,
+                    including SEO, Google Ads, social media marketing, content creation, and lead generation. Our approach
+                    connects every digital channel to create a consistent brand presence, reach the right audience, and
+                    generate meaningful business opportunities.
                 </p>
                 <p class="mt-3 wow fadeInUp" data-wow-delay=".2s">
-                    From building awareness and generating traffic to nurturing prospects and improving conversions, we plan
-                    and manage campaigns around your business objectives while continuously measuring what works.
+                    We combine creative thinking, data-driven insights, and a customised marketing strategy to improve brand
+                    visibility, increase audience engagement, and drive conversions. From developing an effective social
+                    media marketing strategy to managing multi-channel campaigns, our digital marketing solutions focus on
+                    delivering measurable results and sustainable business growth.
                 </p>
                 <h3 class="title-2 wow fadeInUp" data-wow-delay=".3s">
                     What We Provide
@@ -49,8 +56,8 @@
                                 <div class="content">
                                     <h3>01. Digital Marketing Strategy</h3>
                                     <div class="line"></div>
-                                    <p>Develop a complete digital roadmap based on your business goals, audience, industry,
-                                        competitors, and growth opportunities.</p>
+                                    <p>Create a tailored marketing strategy based on your business goals, target audience,
+                                        industry, and growth opportunities.</p>
                                 </div>
                             </div>
                         </div>
@@ -62,8 +69,8 @@
                                 <div class="content">
                                     <h3>02. Search Engine Marketing</h3>
                                     <div class="line"></div>
-                                    <p>Google Ads and search campaigns designed to increase visibility, traffic, enquiries,
-                                        and conversions..</p>
+                                    <p>Run targeted Google Ads and search campaigns to increase online visibility, website
+                                        traffic, and conversions.</p>
                                 </div>
                             </div>
                         </div>
@@ -75,8 +82,8 @@
                                 <div class="content">
                                     <h3>03. Social Media Marketing</h3>
                                     <div class="line"></div>
-                                    <p>Strategy, content, creative design, reels, community management, campaigns, and
-                                        social media growth.</p>
+                                    <p>Build your brand through social media strategy, content creation, reels, creative
+                                        design, and audience engagement.</p>
                                 </div>
                             </div>
                         </div>
@@ -88,8 +95,8 @@
                                 <div class="content">
                                     <h3>04. SEO + AEO</h3>
                                     <div class="line"></div>
-                                    <p>Improve organic search visibility, rankings, website traffic, and opportunities to
-                                        appear in answer-driven search experiences.</p>
+                                    <p>Improve search rankings, organic traffic, and visibility across search engines and
+                                        AI-powered answer platforms.</p>
                                 </div>
                             </div>
                         </div>
@@ -101,8 +108,8 @@
                                 <div class="content">
                                     <h3>05. Content Marketing</h3>
                                     <div class="line"></div>
-                                    <p>Create blogs, articles, landing pages, website content, social content, and campaigns
-                                        that attract and engage your audience.</p>
+                                    <p>Create engaging blogs, articles, website content, landing pages, and social media
+                                        content.</p>
                                 </div>
                             </div>
                         </div>
@@ -114,8 +121,8 @@
                                 <div class="content">
                                     <h3>06. Lead Generation</h3>
                                     <div class="line"></div>
-                                    <p>Build targeted campaigns and digital funnels to attract relevant prospects and create
-                                        qualified business opportunities.</p>
+                                    <p>Generate qualified leads through targeted digital marketing campaigns and
+                                        conversion-focused strategies.</p>
                                 </div>
                             </div>
                         </div>
@@ -127,8 +134,8 @@
                                 <div class="content">
                                     <h3>07. Remarketing & Customer Engagement</h3>
                                     <div class="line"></div>
-                                    <p>Reconnect with existing website visitors and audiences through targeted campaigns and
-                                        personalised communication.</p>
+                                    <p>Reconnect with potential customers through personalised advertising and targeted
+                                        remarketing campaigns.</p>
                                 </div>
                             </div>
                         </div>
@@ -140,8 +147,8 @@
                                 <div class="content">
                                     <h3>08. Influencer & Creator Marketing</h3>
                                     <div class="line"></div>
-                                    <p>Plan and manage creator collaborations to increase brand awareness, reach new
-                                        audiences, and build trust.</p>
+                                    <p>Collaborate with relevant creators to expand brand reach, increase awareness, and
+                                        build audience trust.</p>
                                 </div>
                             </div>
                         </div>
@@ -153,8 +160,8 @@
                                 <div class="content">
                                     <h3>09. Conversion Optimisation</h3>
                                     <div class="line"></div>
-                                    <p>Improve landing pages, CTAs, offers, creatives, and customer journeys to turn digital
-                                        traffic into meaningful actions.</p>
+                                    <p>Optimise landing pages, CTAs, creatives, and customer journeys to improve
+                                        conversions.</p>
                                 </div>
                             </div>
                         </div>
@@ -166,8 +173,8 @@
                                 <div class="content">
                                     <h3>10. Analytics & Reporting</h3>
                                     <div class="line"></div>
-                                    <p>Monitor traffic, engagement, leads, conversions, customer acquisition, and campaign
-                                        performance to guide ongoing optimisation.</p>
+                                    <p>Track website traffic, engagement, leads, conversions, and campaign performance to
+                                        measure marketing results.</p>
                                 </div>
                             </div>
                         </div>

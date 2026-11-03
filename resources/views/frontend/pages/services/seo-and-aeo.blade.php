@@ -1,5 +1,9 @@
 @extends('frontend.layouts.master')
-@section('title', 'SEO and AEO')
+@section('title', 'SEO & AEO Services in Mohali | Rank & Get Cited | The Boss Media')
+@section('meta_description', 'Be found in search and become the answer. Technical SEO, local SEO, content and AI answer
+    engine optimisation (AEO) from The Boss Media. Get a free SEO audit.')
+@section('canonical', 'https://thebossmedia.co.in/seo-and-aeo ')
+
 @section('content')
 
     <!-- Breadcrumb Section Start -->
@@ -23,20 +27,23 @@
                 <div class="service-details-thumb fix">
                     <img data-speed=".8" src="assets/img/service-details/seo.jpg" alt="img">
                 </div>
-                <h2 class="title split-title">Be Found in Search. Become the Answer.</h2>
+                <h2 class="title split-title">Get Found on Search. Become the Answer. Grow Your Business.</h2>
                 <p class="mt-2 wow fadeInUp">
-                    We help businesses improve their online visibility across traditional search engines and emerging
-                    answer-driven platforms. Our SEO and AEO strategies focus on increasing relevant traffic, improving
-                    search presence, building authority, and helping your brand appear when potential customers are actively
-                    looking for solutions.
+                    Looking to improve your online visibility, search rankings, and digital presence? We provide
+                    comprehensive search optimisation solutions, including on-page and off-page optimisation, technical
+                    improvements, local search, and content optimisation. Our strategies help your website reach the right
+                    audience, attract organic traffic, and improve discoverability across traditional search engines and
+                    AI-powered platforms.
                 </p>
                 <p class="mt-3 wow fadeInUp" data-wow-delay=".2s">
-                    From technical optimisation and keyword strategy to content, local search, and answer-focused
-                    optimisation, we build a search presence designed for long-term growth.
+                    Our approach combines detailed website audits, keyword research, content development, and AI Answer
+                    Engine Optimisation (AEO) to make your business easier to find and more relevant in search results.
+                    Whether you want to strengthen your local presence, improve website performance, or build long-term
+                    online visibility, our tailored strategies focus on sustainable growth. Get in touch today for a free
+                    website audit!
                 </p>
                 <h3 class="title-2 wow fadeInUp" data-wow-delay=".3s">
-                    What We Provide
-
+                    Our SEO & AEO Services
                 </h3>
 
                 <div class="service-feature-wrapper">
@@ -49,8 +56,8 @@
                                 <div class="content">
                                     <h3>01. SEO Strategy & Audit</h3>
                                     <div class="line"></div>
-                                    <p>Analyse your website, competitors, search visibility, technical health, and growth
-                                        opportunities.</p>
+                                    <p>Analyse website performance, competitors, technical health, and search opportunities
+                                        through a detailed SEO page audit.</p>
                                 </div>
                             </div>
                         </div>
@@ -62,8 +69,8 @@
                                 <div class="content">
                                     <h3>02. Keyword Research</h3>
                                     <div class="line"></div>
-                                    <p>Identify high-value keywords, search intent, long-tail opportunities, and topics
-                                        relevant to your business.</p>
+                                    <p>Identify relevant keywords, search intent, and high-value opportunities to attract
+                                        the right audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -75,8 +82,8 @@
                                 <div class="content">
                                     <h3>03. On-Page SEO</h3>
                                     <div class="line"></div>
-                                    <p>Optimise page titles, meta descriptions, headings, content, internal links, URLs, and
-                                        other on-page elements.</p>
+                                    <p>Optimise page titles, meta descriptions, headings, content, URLs, and internal links
+                                        for better search visibility.</p>
                                 </div>
                             </div>
                         </div>
@@ -88,8 +95,8 @@
                                 <div class="content">
                                     <h3>04. Technical SEO</h3>
                                     <div class="line"></div>
-                                    <p>Improve website structure, crawlability, indexing, page performance, mobile
-                                        experience, and technical issues.</p>
+                                    <p>Improve website structure, indexing, crawlability, mobile experience, and page
+                                        performance.</p>
                                 </div>
                             </div>
                         </div>
@@ -99,10 +106,10 @@
                                     <img src="assets/img/home-3/icon/feature-icon-03.svg" alt="img">
                                 </div>
                                 <div class="content">
-                                    <h3>05. Content SEO</h3>
+                                    <h3>05. Content Optimisation</h3>
                                     <div class="line"></div>
-                                    <p>Create search-focused website content, blogs, landing pages, and topic clusters
-                                        designed around user intent.</p>
+                                    <p>Create search-focused website content, blogs, and landing pages aligned with user
+                                        intent.</p>
                                 </div>
                             </div>
                         </div>
@@ -114,8 +121,8 @@
                                 <div class="content">
                                     <h3>06. Local SEO</h3>
                                     <div class="line"></div>
-                                    <p>Improve local visibility through Google Business Profile optimisation, local content,
-                                        citations, and location-based search strategies.</p>
+                                    <p>Strengthen local search visibility through Google Business Profile optimisation,
+                                        local listings, and location-based strategies.</p>
                                 </div>
                             </div>
                         </div>
@@ -127,8 +134,8 @@
                                 <div class="content">
                                     <h3>07. AEO – Answer Engine Optimisation</h3>
                                     <div class="line"></div>
-                                    <p>Optimise content to provide clear, structured answers that can improve visibility
-                                        across AI-powered search.</p>
+                                    <p>Optimise structured content to improve discoverability across AI-powered search and
+                                        answer engines.</p>
                                 </div>
                             </div>
                         </div>
@@ -140,8 +147,8 @@
                                 <div class="content">
                                     <h3>08. Authority & Off-Page SEO</h3>
                                     <div class="line"></div>
-                                    <p>Strengthen website authority through quality backlinks, digital PR, relevant
-                                        listings, and off-page strategies.</p>
+                                    <p>Build website authority through quality backlinks, digital PR, relevant listings, and
+                                        off-page optimisation.</p>
                                 </div>
                             </div>
                         </div>
@@ -153,8 +160,8 @@
                                 <div class="content">
                                     <h3>09. Competitor & Search Analysis</h3>
                                     <div class="line"></div>
-                                    <p>Monitor competitors, ranking opportunities, search trends, content gaps, and changes
-                                        in the search landscape.</p>
+                                    <p>Identify ranking opportunities, content gaps, competitor strategies, and emerging
+                                        search trends.</p>
                                 </div>
                             </div>
                         </div>
@@ -166,8 +173,8 @@
                                 <div class="content">
                                     <h3>10. SEO Reporting & Optimisation</h3>
                                     <div class="line"></div>
-                                    <p>Track rankings, organic traffic, visibility, conversions, and other key metrics to
-                                        continuously improve performance.</p>
+                                    <p>Monitor keyword rankings, organic traffic, visibility, and conversions to
+                                        continuously improve results.</p>
                                 </div>
                             </div>
                         </div>
