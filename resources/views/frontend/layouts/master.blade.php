@@ -45,96 +45,76 @@
     <meta property="og:image:height" content="630">
     <meta property="og:image:alt" content="The Boss Media - Digital Marketing & SEO Company">
 
-  @verbatim
-<script type="application/ld+json">
+    <!--<< Schema.org JSON-LD (Block 1) >>-->
+    @verbatim
+        <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "@id": "https://thebossmedia.co.in/#organization",
+      "name": "The Boss Media",
+      "url": "https://thebossmedia.co.in/",
+      "logo": "https://thebossmedia.co.in/assets/img/logo/boss-logo.webp",
+      "description": "The Boss Media is a digital solutions company helping businesses build, grow and strengthen their online presence through technology, creativity, SEO and digital marketing.",
+      "email": "info@thebossmedia.co.in",
+      "telephone": "+91-7657999786",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "B-1, D-185, Phase 8B, Industrial Area, Sector 74",
+        "addressLocality": "Sahibzada Ajit Singh Nagar (Mohali)",
+        "addressRegion": "Punjab",
+        "postalCode": "160055",
+        "addressCountry": "IN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-7657999786",
+        "email": "info@thebossmedia.co.in",
+        "contactType": "customer service",
+        "areaServed": "IN",
+        "availableLanguage": ["English", "Hindi"]
+      },
+      "sameAs": [
+        "https://www.facebook.com/thebossmedia.in",
+        "https://www.instagram.com/thebossmedia.official",
+        "https://www.linkedin.com/company/thebossmedia"
+      ]
+    }
+    </script>
+    @endverbatim
+
+    @verbatim
+        <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "@id": "https://thebossmedia.co.in/#organization",
+  "@type": "Review",
+  "@id": "https://thebossmedia.co.in/#review",
   "name": "The Boss Media",
   "url": "https://thebossmedia.co.in/",
-  "logo": "https://thebossmedia.co.in/assets/img/logo/boss-logo.webp",
-  "description": "The Boss Media is a digital solutions company helping businesses build, grow and strengthen their online presence through technology, creativity, SEO and digital marketing.",
-  "email": "info@thebossmedia.co.in",
-  "telephone": "+91-7657999786",
-
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "B-1, D-185, Phase 8B, Industrial Area, Sector 74",
-    "addressLocality": "Sahibzada Ajit Singh Nagar (Mohali)",
-    "addressRegion": "Punjab",
-    "postalCode": "160055",
-    "addressCountry": "IN"
-  },
-
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "+91-7657999786",
-    "email": "info@thebossmedia.co.in",
-    "contactType": "customer service",
-    "areaServed": "IN",
-    "availableLanguage": ["English", "Hindi"]
-  },
-
-  "sameAs": [
-    "https://www.facebook.com/thebossmedia.in",
-    "https://www.instagram.com/thebossmedia.official",
-    "https://www.linkedin.com/company/thebossmedia"
-  ],
-
   "review": [
     {
       "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Tarundeep Singh"
-      },
-      "itemReviewed": {
-        "@id": "https://thebossmedia.co.in/#organization"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": 5,
-        "bestRating": 5
-      },
+      "author": { "@type": "Person", "name": "Tarundeep Singh" },
+      
       "reviewBody": "The Boss Media understood our requirements perfectly and delivered a professional digital solution. Their communication, creativity, and attention to detail were impressive."
     },
     {
       "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Amar Srinivas"
-      },
-      "itemReviewed": {
-        "@id": "https://thebossmedia.co.in/#organization"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": 5,
-        "bestRating": 5
-      },
+      "author": { "@type": "Person", "name": "Amar Srinivas" },
+      
       "reviewBody": "What we liked most about The Boss Media was having technology, design, SEO, and marketing expertise in one place. The team was responsive, professional, and easy to work with."
     },
     {
       "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "Danial"
-      },
-      "itemReviewed": {
-        "@id": "https://thebossmedia.co.in/#organization"
-      },
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": 5,
-        "bestRating": 5
-      },
+      "author": { "@type": "Person", "name": "Danial" },
+      
       "reviewBody": "From design to digital marketing, the team provided excellent support throughout the project. They helped us create a stronger and more professional online presence."
     }
   ]
 }
 </script>
-@endverbatim
+
+    @endverbatim
 
 </head>
 
