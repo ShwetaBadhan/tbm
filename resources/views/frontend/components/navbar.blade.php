@@ -90,8 +90,8 @@
                         </ul>
                       </li>
                         <li class="active menu-thumb">
-                        <a href="{{ route('our-work') }}">
-                          Our Work
+                        <a href="{{ route('blogs') }}">
+                          Our Blogs
                          
                         </a>
                        

@@ -12,9 +12,9 @@
                             <ul class="breadcrumb-list wow fadeInUp">
                                 <li> <i class="fa-solid fa-house"></i><a href="{{ route('home') }}">Home</a></li>
                                 <li><i class="fa-solid fa-chevron-right"></i></li>
-                                <li>Blog Grid</li>
+                                <li>Our Blogs</li>
                             </ul>
-                            <h1 class="breadcrumb-title split-title">Blog Grid</h1>
+                            <h1 class="breadcrumb-title split-title">Our Blogs</h1>
                         </div>
                     </div>
                 </section>
