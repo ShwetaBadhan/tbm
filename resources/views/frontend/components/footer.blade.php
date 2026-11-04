@@ -1,17 +1,12 @@
  <!-- Footer Section Start -->
-        <footer
-          class="footer-section fix bg-cover"
-          style="
-            background-image: url(&quot;assets/img/bg/footer.jpg&quot;);
-          "
-        >
+       <footer class="footer-section fix bg-cover" style="background-image: url('{{ asset('assets/img/bg/footer.jpg') }}');">
           <div class="footer-info-area">
             <div class="container">
               <div class="footer-info-top">
                 <div class="info-item wow fadeInUp" data-wow-delay=".2s">
                   <div class="icon">
                     <img
-                      src="assets/img/home-1/icon/footer-icon-1.svg"
+                      src="{{ url ('assets/img/home-1/icon/footer-icon-1.svg') }}"
                       alt="img"
                     />
                   </div>
@@ -30,7 +25,7 @@
                 <div class="info-item wow fadeInUp" data-wow-delay=".4s">
                   <div class="icon">
                     <img
-                      src="assets/img/home-1/icon/footer-icon-2.svg"
+                      src="{{ url ('assets/img/home-1/icon/footer-icon-2.svg') }}"
                       alt="img"
                     />
                   </div>
@@ -45,7 +40,7 @@ Industrial Area, Sector 74, Sahibzada Ajit  <br>Singh Nagar  (Mohali), Punjab-16
                 <div class="info-item wow fadeInUp" data-wow-delay=".6s">
                   <div class="icon">
                     <img
-                      src="assets/img/home-1/icon/footer-icon-3.svg"
+                      src="{{ url ('assets/img/home-1/icon/footer-icon-3.svg') }}"
                       alt="img"
                     />
                   </div>
@@ -88,7 +83,7 @@ Industrial Area, Sector 74, Sahibzada Ajit  <br>Singh Nagar  (Mohali), Punjab-16
                   <div class="footer-widget-items">
                     <div class="widget-head">
                       <a href="{{ route('home') }}">
-                        <img src="assets/img/logo/boss-logo.webp" alt="img" />
+                        <img src="{{ url ('assets/img/logo/boss-logo.webp') }}" alt="img" />
                       </a>
                     </div>
                     <div class="footer-content">
@@ -98,19 +93,19 @@ Industrial Area, Sector 74, Sahibzada Ajit  <br>Singh Nagar  (Mohali), Punjab-16
                       <div class="award-icon d-flex align-items-center">
                         <div class="icon">
                           <img
-                            src="assets/img/home-1/footer-icon-1.png"
+                            src="{{ url ('assets/img/home-1/footer-icon-1.png') }}"
                             alt="img"
                           />
                         </div>
                         <div class="icon">
                           <img
-                            src="assets/img/home-1/footer-icon-2.png"
+                            src="{{ url ('assets/img/home-1/footer-icon-2.png') }}"
                             alt="img"
                           />
                         </div>
                         <div class="icon">
                           <img
-                            src="assets/img/home-1/footer-icon-3.png"
+                            src="{{ url ('assets/img/home-1/footer-icon-3.png') }}"
                             alt="img"
                           />
                         </div>
