@@ -215,7 +215,7 @@
                             </div>
                         </div>
                         <!-- Certificate Template Section -->
-                        <h6 class="fw-bold text-primary-light mb-3 mt-4 pt-3 border-top">Certificate Template</h6>
+                        {{-- <h6 class="fw-bold text-primary-light mb-3 mt-4 pt-3 border-top">Certificate Template</h6>
                         <div class="row gy-4">
                             <div class="col-md-6">
                                 <label class="form-label fw-semibold text-secondary-light text-sm mb-8">
@@ -261,7 +261,7 @@
                                     @endif
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                         <!-- Form 5 Certificate Template Section -->
                         {{-- <h6 class="fw-bold text-primary-light mb-3 mt-4 pt-3 border-top">Form 5 Certificate Template</h6>
                         <div class="row gy-4">
