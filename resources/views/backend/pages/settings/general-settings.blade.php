@@ -263,7 +263,7 @@
                             </div>
                         </div>
                         <!-- Form 5 Certificate Template Section -->
-                        <h6 class="fw-bold text-primary-light mb-3 mt-4 pt-3 border-top">Form 5 Certificate Template</h6>
+                        {{-- <h6 class="fw-bold text-primary-light mb-3 mt-4 pt-3 border-top">Form 5 Certificate Template</h6>
                         <div class="row gy-4">
                             <div class="col-md-6">
                                 <label class="form-label fw-semibold text-secondary-light text-sm mb-8">
@@ -309,9 +309,9 @@
                                     @endif
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                         <!-- Admission Form Template Section -->
-<h6 class="fw-bold text-primary-light mb-3 mt-4 pt-3 border-top">Admission Form Template</h6>
+{{-- <h6 class="fw-bold text-primary-light mb-3 mt-4 pt-3 border-top">Admission Form Template</h6>
 <div class="row gy-4">
     <div class="col-md-6">
         <label class="form-label fw-semibold text-secondary-light text-sm mb-8">
@@ -353,7 +353,7 @@
             @endif
         </div>
     </div>
-</div>
+</div> --}}
                         <!-- Buttons -->
                         <div class="d-flex align-items-center justify-content-end gap-3 mt-24 pt-3 border-top">
                             <button type="reset"
