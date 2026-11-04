@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Login</title>
-  <link rel="icon" type="image/png" href="{{ asset('images/favicon.png') }}" sizes="16x16">
+  <link rel="icon" type="image/png" href="{{ asset('images/fevicon.png') }}" sizes="16x16">
   
   <!-- CSS Files -->
   <link rel="stylesheet" href="{{ asset('css/remixicon.css') }}">
@@ -19,12 +19,12 @@
 <body>
   <div class="d-lg-flex bg-white">
     <div class="w-50 d-lg-flex d-none overflow-hidden">
-      <img src="{{ asset('images/thumbs/login-img.png') }}" alt="Login Image" class="w-100 h-100 object-fit-cover">
+      <img src="{{ asset('images/why-choose-us.jpg') }}" alt="Login Image" class="w-100 h-100 object-fit-cover">
     </div>
     <div class="lg-w-50 px-24 py-32 d-flex justify-content-center align-items-center">
       <div class="max-w-540-px mx-auto">
         <a href="{{ route('login') }}" class="">
-          <img src="{{ isset($settings) && $settings->logo ? asset('storage/' . $settings->logo) : asset('images/logo.png') }}" 
+          <img src="{{ isset($settings) && $settings->logo ? asset('storage/' . $settings->logo) : asset('images/boss-logo.webp') }}" 
          alt="site logo" class="light-logo">
         </a>
         <div class="mt-32 mb-32">

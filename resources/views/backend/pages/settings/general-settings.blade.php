@@ -1,6 +1,5 @@
 @extends('backend.layouts.master')
 @section('content')
-
     <div class="dashboard-main-body">
 
         <!-- Page Header -->
@@ -311,7 +310,7 @@
                             </div>
                         </div> --}}
                         <!-- Admission Form Template Section -->
-{{-- <h6 class="fw-bold text-primary-light mb-3 mt-4 pt-3 border-top">Admission Form Template</h6>
+                        {{-- <h6 class="fw-bold text-primary-light mb-3 mt-4 pt-3 border-top">Admission Form Template</h6>
 <div class="row gy-4">
     <div class="col-md-6">
         <label class="form-label fw-semibold text-secondary-light text-sm mb-8">
@@ -368,7 +367,6 @@
             </div>
         </div>
     </div>
-
 @endsection
 
 @push('scripts')

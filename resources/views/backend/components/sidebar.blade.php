@@ -5,7 +5,7 @@
     <div class="">
         <div class="sidebar-logo d-flex align-items-center justify-content-between">
             <a href="{{ route('dashboard') }}" class="">
-                <img src="{{ isset($settings) && $settings->logo ? asset('storage/' . $settings->logo) : asset('images/logo.png') }}"
+                <img src="{{ isset($settings) && $settings->logo ? asset('storage/' . $settings->logo) : asset('images/boss-logo.webp') }}"
                     alt="site logo" class="light-logo">
                 <img src="{{ isset($settings) && $settings->backend_logo ? asset('storage/' . $settings->backend_logo) : (isset($settings) && $settings->logo ? asset('storage/' . $settings->logo) : asset('images/logo-light.png')) }}"
                     alt="site logo" class="dark-logo">

@@ -13,7 +13,7 @@
     @if (isset($settings) && $settings->favicon)
         <link rel="icon" type="image/png" href="{{ asset('storage/' . $settings->favicon) }}" sizes="16x16">
     @else
-        <link rel="icon" type="image/png" href="images/favicon.png" sizes="16x16">
+        <link rel="icon" type="image/png" href="images/fevicon.png" sizes="16x16">
     @endif
   <!-- remix icon font css  -->
   <link rel="stylesheet" href="{{ url ('css/remixicon.css')}}">
