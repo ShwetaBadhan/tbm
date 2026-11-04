@@ -164,7 +164,7 @@
             @endcanany
 
             {{-- Settings (Dropdown) --}}
-            {{-- @canany(['setting-view', 'seo-view'])
+            @canany(['setting-view', 'seo-view'])
             <li class="dropdown">
                 <a href="javascript:void(0)">
                     <i class="ri-user-settings-line"></i>
@@ -180,17 +180,17 @@
                     </li>
                     @endcan
 
-                    @can('seo-view')
+                    {{-- @can('seo-view')
                     <li>
                         <a href="{{ route('seo.index') }}">
                             <i class="ri-circle-fill circle-icon w-auto"></i>
                             SEO Setup
                         </a>
                     </li>
-                    @endcan
+                    @endcan --}}
                 </ul>
             </li>
-            @endcanany --}}
+            @endcanany
 
         </ul>
     </div>
