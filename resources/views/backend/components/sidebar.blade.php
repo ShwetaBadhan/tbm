@@ -33,15 +33,14 @@
             @endcan
 
             {{-- Contact Leads --}}
-            {{-- @can('contact-leads-view')
+            
             <li>
-                <a href="{{ route('contact-queries.index') }}">
+                <a href="{{ route('admin.contact-queries.index') }}">
                     <i class="ri-user-settings-line"></i>
                     <span>Contact Leads</span>
                 </a>
             </li>
-            @endcan --}}
-
+            
             {{-- Home Page (Dropdown) --}}
             {{-- @canany(['slider-view', 'testimonial-view', 'faq-view'])
             <li class="dropdown">

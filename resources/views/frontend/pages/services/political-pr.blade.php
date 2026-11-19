@@ -1,5 +1,7 @@
 @extends('frontend.layouts.master')
-@section('title', 'Political PR')
+@section('title', 'Political Campaign Management & PR Agency | The Boss Media')
+@section('meta_description', ' Power your campaign and reach every voter. Election strategy, candidate branding, social media, campaign videos and WhatsApp outreach, from ₹49,999.')
+@section('canonical', 'https://thebossmedia.co.in/political-pr')
 @section('content')
 
   <!-- Hero Section Start -->
@@ -24,18 +26,18 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="hero-content wow fadeInUp" data-wow-delay=".3s">
-                                        <h1 style="font-size: 68px; !important">
-                                            <span> Power your campaign. <br> Reach every voter. </span> 
+                                        <h2 style="color: #fff; font-size: 50px; !important">
+                                            <span> Your Vision. Your Voice. <br> Your Political Journey. </span> 
                                               
                                         </h1>
-                                        <p class="hero-text">
-                                            Complete political campaign solutions designed to build visibility, engage voters and create a stronger digital presence — from the first strategy session to election day.
-                                        </p>
+                                        <p class="hero-text" align="justify">
+                                            A political campaign is more than a public announcement. It is the story of a candidate, the issues they stand for, and the people they aim to represent. We help bring that story into focus through political branding, campaign communication, media presence, and meaningful public engagement.
+ </p>
                                     </div>
                                     <div class="hero-button wow fadeInUp" data-wow-delay=".8s">
                                         <a href="{{ route('contact-us') }}" class="theme-btn">
                                             <span class="btn-arrow-left"> <i class="fa-solid fa-arrow-up-right"></i> </span>
-                                            <span class="btn-title">Free Consulting</span>
+                                            <span class="btn-title">Build Your Campaign Presence</span>
                                             <span class="btn-arrow-right"> <i class="fa-solid fa-arrow-up-right"></i> </span>
                                         </a>
                                     </div>
@@ -53,9 +55,9 @@
                 <div class="container">
                     <div class="section-title text-center">
                         <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle justify-content-center"><img src="assets/img/sub-title-1.svg" alt="img">CAMPAIGN PACKAGES</span>
-                        <h2 class="split-title">Campaign packages built <br> for every stage</h2>
+                        <h2 class="split-title">The Right Support for Your <br> Political Campaign </h2>
                         <p class="mt-3 wow fadeInUp" data-wow-delay=".2s">
-                            Whether you're contesting locally or running a large-scale election campaign, <br> choose the level of support that fits your campaign.
+                            Explore flexible campaign packages tailored to your political goals, <br> candidate branding, digital presence, and public engagement.
                         </p>
                     </div>
                     <div class="row">
@@ -247,8 +249,8 @@
                             <div class="work-process-left-thumb-style-4">
                                 <div class="section-title mb-0">
                                     <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle"><img src="assets/img/sub-title-1.svg" alt="img">FULL-SERVICE SUPPORT</span>
-                                    <h2 class="split-title">Everything your campaign needs</h2>
-                                    <p>Not individual marketing services — one coordinated system built for elections.</p>
+                                    <h2 class="split-title">Every Campaign Needs a Clear Voice and Direction.</h2>
+                                    <p>From candidate identity to public communication, bring every campaign activity together through one coordinated political PR approach.</p>
                                 </div>
                                 <div class="work-process-thumb thumb-style-6 fix wow fadeInUp" data-wow-delay=".3s">
                                     <img data-speed=".8" src="assets/img/home-6/work-process-01.jpg" alt="img">
@@ -264,9 +266,9 @@
                                         </div>
                                     </div>
                                     <div class="content">
-                                        <h3>Campaign Strategy</h3>
+                                        <h3>Political Campaign Planning</h3>
                                         <p>
-                                            Build a focused campaign roadmap.
+                                            Create a structured roadmap for campaign activities and communication.
                                         </p>
                                     </div>
                                 </li>
@@ -277,9 +279,9 @@
                                         </div>
                                     </div>
                                     <div class="content">
-                                        <h3>Digital Presence</h3>
+                                        <h3>Candidate Branding & Identity</h3>
                                         <p>
-                                            Build a strong online identity for the candidate.
+                                            Build a recognisable public identity through consistent messaging and visual presentation.
                                         </p>
                                     </div>
                                 </li>
@@ -290,9 +292,9 @@
                                         </div>
                                     </div>
                                     <div class="content">
-                                        <h3>Social Media Campaigns</h3>
+                                        <h3>Public Relations & Media Outreach</h3>
                                         <p>
-                                            Consistent, engaging and campaign-focused content.
+                                            Coordinate press releases, media interactions, announcements, and public updates.
                                         </p>
                                     </div>
                                 </li>
@@ -303,9 +305,9 @@
                                         </div>
                                     </div>
                                     <div class="content">
-                                        <h3>Video & Creative</h3>
+                                        <h3>Voter Engagement & Campaign Content</h3>
                                         <p>
-                                            High-impact campaign videos, graphics and reels.
+                                           Develop informative content, campaign videos, and public engagement initiatives.
                                         </p>
                                     </div>
                                 </li>
@@ -320,32 +322,32 @@
                 <div class="container">
                     <div class="counter-wrap-3">
                         <div class="counter-box-items-style-3 wow fadeInUp" data-wow-delay=".3s">
-                            <h2><span class="count">100</span>+</h2>
-                            <h3>Campaigns Supported</h3>
+                            <h2><span >24/7</span></h2>
+                            <h3>Campaign Support</h3>
                             <div class="line"></div>
                             {{-- <p>
                                 Years of expertise, our results speak for themselves
                             </p> --}}
                         </div>
                          <div class="counter-box-items-style-3 wow fadeInUp" data-wow-delay=".5s">
-                            <h2><span class="count">25</span>k</h2>
-                            <h3>Cities Reached</h3>
+                            <h2><span class="count">100</span>%</h2>
+                            <h3>Dedicated Campaign Focus</h3>
                             <div class="line"></div>
                             {{-- <p>
                                 Years of expertise, our results speak for themselves
                             </p> --}}
                         </div>
                         <div class="counter-box-items-style-3 wow fadeInUp" data-wow-delay=".7s">
-                            <h2><span class="count">1000000</span>+</h2>
-                            <h3>Voter <br> Interactions</h3>
+                            <h2><span>360°</span></h2>
+                            <h3>Political PR Support</h3>
                             <div class="line"></div>
                             {{-- <p>
                                 Years of expertise, our results speak for themselves
                             </p> --}}
                         </div>
                         <div class="counter-box-items-style-3 wow fadeInUp" data-wow-delay=".7s">
-                            <h2><span class="count">95</span>%</h2>
-                            <h3>Campaign Satisfaction</h3>
+                            <h2><span class="count">100</span>+</h2>
+                            <h3>Campaigns Managed</h3>
                             <div class="line"></div>
                             {{-- <p>
                                 Years of expertise, our results speak for themselves
@@ -363,9 +365,9 @@
                             <div class="col-xl-5 col-lg-6">
                                 <div class="work-process-left-thumb-style-4">
                                     <div class="section-title mb-0">
-                                        <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle"><img src="assets/img/sub-title-1.svg" alt="img">Our Working Process</span>
-                                        <h2 class="split-title">The campaign process</h2>
-                                        <p>A structured path from first conversation to election day.</p>
+                                        <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle"><img src="assets/img/sub-title-1.svg" alt="img">How Boss Media Works</span>
+                                        <h2 class="split-title">A Clear Process. A Coordinated Campaign.</h2>
+                                        <p>At Boss Media, we turn campaign goals into clear strategies, consistent communication, and coordinated political PR activities.</p>
                                     </div>
                                     <div class="work-process-thumb wow fadeInUp" data-wow-delay=".2s">
                                         <img src="assets/img/home-4/work-process-01.jpg" alt="img">
@@ -387,9 +389,9 @@
                                             </div>
                                         </div>
                                         <div class="content">
-                                            <h3>Discover</h3>
+                                            <h3>Plan & Strategise</h3>
                                             <p>
-                                                Understand the candidate, constituency and campaign objectives.
+                                                Understand campaign goals and develop a clear communication strategy.
                                             </p>
                                         </div>
                                     </li>
@@ -406,9 +408,9 @@
                                             </div>
                                         </div>
                                         <div class="content">
-                                            <h3>Strategize</h3>
+                                            <h3>Create & Execute</h3>
                                             <p>
-                                                Develop the campaign strategy and communication plan.
+                                                Build candidate branding, campaign creatives, videos, and digital content.
                                             </p>
                                         </div>
                                     </li>
@@ -422,9 +424,9 @@
                                             </div>
                                         </div>
                                         <div class="content">
-                                            <h3>Create</h3>
+                                            <h3>Manage & Monitor</h3>
                                             <p>
-                                                Produce campaign creatives, videos, websites and content
+                                                Coordinate campaign communication, public engagement, and track performance.
                                             </p>
                                         </div>
                                     </li>
@@ -442,12 +444,12 @@
                         <div class="col-xl-5 col-lg-6">
                             <div class="faq-left-content">
                                 <div class="section-title mb-0">
-                                    <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle"><img src="assets/img/sub-title-1.svg" alt="img">Our FAQ’s</span>
-                                    <h2 class="split-title">Frequently Asked Questions About Us</h2>
+                                    <span class="sub-title sub-title tz-sub-tilte tz-sub-anim tx-subTitle"><img src="assets/img/sub-title-1.svg" alt="img">Political PR FAQs</span>
+                                    <h2 class="split-title">Everything You Need to Know Before Taking Your Campaign Forward.</h2>
                                 </div>
-                                <p class="faq-text wow fadeInUp" data-wow-delay=".2s">
+                                {{-- <p class="faq-text wow fadeInUp" data-wow-delay=".2s">
                                     Collaboratively disintermediate move to impacter compellingly web architectures without installed
-                                </p>
+                                </p> --}}
                                 <div class="faq-bottom-area wow fadeInUp" data-wow-delay=".4s">
                                     <div class="icon">
                                         <img src="assets/img/home-1/icon/faq-icon-01.svg" alt="img">
@@ -467,13 +469,13 @@
                                     <!--Block-->
                                     <li class="accordion block active-block wow fadeInUp" data-wow-delay=".2s">
                                         <div class="acc-btn active">
-                                            How do I know if I need a consultant?
+                                            What does political PR include?
                                             <div class="icon fa-regular fa-plus"></div>
                                         </div>
                                         <div class="acc-content current">
                                             <div class="content">
                                                 <div class="text">
-                                                    Through a combination of data-driven insights and innovative approaches, we work closely with you to develop customized.
+                                                    Political PR includes candidate branding, election campaign planning, media relations, campaign communication, social media management, and public engagement.
                                                 </div>
                                             </div>
                                         </div>
@@ -481,13 +483,13 @@
                                     <!--Block-->
                                     <li class="accordion block wow fadeInUp" data-wow-delay=".4s">
                                         <div class="acc-btn active">
-                                            What types of consulting services do you offer?
+                                             How can Boss Media support an election campaign?
                                             <div class="icon fa-regular fa-plus"></div>
                                         </div>
                                         <div class="acc-content">
                                             <div class="content">
                                                 <div class="text">
-                                                    Through a combination of data-driven insights and innovative approaches, we work closely with you to develop customized.
+                                                    We support campaigns through strategic planning, candidate profiles, campaign creatives, videos, digital communication, and media coordination.
                                                 </div>
                                             </div>
                                         </div>
@@ -495,13 +497,13 @@
                                         <!--Block-->
                                     <li class="accordion block wow fadeInUp" data-wow-delay=".6s">
                                         <div class="acc-btn active">
-                                            What makes your consulting firm different from others?
+                                            Can you help build a candidate's political identity?
                                             <div class="icon fa-regular fa-plus"></div>
                                         </div>
                                         <div class="acc-content">
                                             <div class="content">
                                                 <div class="text">
-                                                    Through a combination of data-driven insights and innovative approaches, we work closely with you to develop customized.
+                                                    Yes. We help develop candidate profiles, visual branding, campaign messaging, and a consistent public presence.
                                                 </div>
                                             </div>
                                         </div>
@@ -509,13 +511,13 @@
                                     <!--Block-->
                                     <li class="accordion block wow fadeInUp" data-wow-delay=".8s">
                                         <div class="acc-btn active">
-                                            What makes your consulting firm different from others?
+                                            Can you create a website for a political candidate?
                                             <div class="icon fa-regular fa-plus"></div>
                                         </div>
                                         <div class="acc-content">
                                             <div class="content">
                                                 <div class="text">
-                                                    Through a combination of data-driven insights and innovative approaches, we work closely with you to develop customized.
+                                                    Yes. We develop candidate websites and campaign landing pages to present profiles, initiatives, announcements, and public information.
                                                 </div>
                                             </div>
                                         </div>
@@ -523,13 +525,13 @@
                                     <!--Block-->
                                     <li class="accordion block wow fadeInUp" data-wow-delay=".9s">
                                         <div class="acc-btn active">
-                                            Who can benefit from your consulting services?
+                                            Can Boss Media manage the complete digital campaign?
                                             <div class="icon fa-regular fa-plus"></div>
                                         </div>
                                         <div class="acc-content">
                                             <div class="content">
                                                 <div class="text">
-                                                    Through a combination of data-driven insights and innovative approaches, we work closely with you to develop customized.
+                                                   Yes. We can coordinate campaign branding, social media, digital content, website communication, and campaign updates.
                                                 </div>
                                             </div>
                                         </div>

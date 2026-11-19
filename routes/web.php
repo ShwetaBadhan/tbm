@@ -23,6 +23,8 @@ use App\Http\Controllers\CertificateController;
 use App\Http\Controllers\SeoController;
 use App\Http\Controllers\FeeReceiptController;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\Admin\ContactQueryController;
+
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/about-us', function () {
@@ -106,6 +108,11 @@ Route::get('/our-work', function () {
 Route::get('/contact-us', function () {
     return view('frontend.pages.contact-us');
 })->name('contact-us');
+
+// Added throttle middleware for security against spam/hacking
+Route::post('/contact-us', [ContactController::class, 'submit'])
+    ->name('contact-us.submit')
+    ->middleware('throttle:3,1'); 
 
 Route::get('/our-blogs', [HomeController::class, 'blogs'])->name('our-blogs');
 
@@ -254,6 +261,16 @@ Route::prefix('fees')->name('fees.')->group(function () {
     
     Route::get('/{id}/print', [FeeReceiptController::class, 'print'])->name('print');
     Route::get('/student/{id}', [FeeReceiptController::class, 'getStudentDetails'])->name('student.details');
+});
+
+// Admin Routes Group
+Route::prefix('admin')->name('admin.')->group(function () {
+    
+ 
+    Route::get('/contact-queries', [ContactQueryController::class, 'index'])->name('contact-queries.index');
+    
+    
+    Route::delete('/contact-queries/{id}', [ContactQueryController::class, 'destroy'])->name('contact-queries.destroy');
 });
 
 // ==========================================

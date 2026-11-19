@@ -83,7 +83,35 @@
     </script>
     @endverbatim
 
-   
+     <!-- SweetAlert2 CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+
+    <!-- ✅ Intl Tel Input CSS (jsDelivr build folder) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@17.0.19/build/css/intlTelInput.min.css">
+
+    <style>
+        .iti { width: 100%; }
+        .form-clt { position: relative; }
+
+        /* Dropdown ko parent overflow se upar rakho taaki clip na ho */
+        .iti__country-list {
+            z-index: 9999 !important;
+            max-height: 200px;
+            box-shadow: 0 4px 12px rgba(0,0,0,.15);
+            border: 1px solid #ddd;
+            border-radius: 6px;
+        }
+        /* Search box (countrySearch) styling */
+        .iti__search-input {
+            width: 100%;
+            padding: 6px 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-bottom: 4px;
+        }
+
+        .theme-btn:disabled { opacity: 0.7; cursor: not-allowed; }
+    </style>
 </head>
 
 <body class="body-bg-1">
@@ -148,6 +176,7 @@
     </script>
     <script src="https://chat.timetohiveone.com/widget/loader.js" async></script>
     <!-- End TimetoHive WhatsApp Chat Widget -->
+    @stack('scripts')
 </body>
 
 </html>
